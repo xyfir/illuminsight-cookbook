@@ -1,0 +1,17 @@
+{
+  "set": 42447,
+  "url": "http://tolkiengateway.net",
+  "dump": "/path/to/tolkiengatewaynet_w-20180524-current.xml",
+  "ignore": {
+    "pages": ["Main Page"],
+    "htmlElements": ["aside", "table"],
+    "sections": ["See (A|a)lso", "References", "External (L|l)inks"]
+  },
+  "replace": {
+    "markdown": [
+      ["# \\\\\\[\\[edit\\]\\(.+\\)\\\\\\]", "#"],
+      ["\\[\\\\\\[\\d+\\\\\\]\\]\\(.*#cite_note-.+\\)", ""],
+      ["\\[!\\[\\]\\(.+magnify-clip\\.png\\)\\]\\(.+\\)", ""]
+    ]
+  }
+}
