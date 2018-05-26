@@ -1,0 +1,10 @@
+{
+  "set": 42446,
+  "url": "http://lotr.wikia.com",
+  "dump": "/path/to/lotr_pages_current.xml",
+  "ignore": {
+    "titles": ["Main Page"],
+    "sections": ["See also", "References", "External links"]
+  },
+  "namespaces": [0]
+}
