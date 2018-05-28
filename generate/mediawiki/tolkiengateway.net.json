@@ -1,11 +1,11 @@
 {
   "set": 42447,
   "url": "http://tolkiengateway.net",
-  "dump": "/path/to/tolkiengatewaynet_w-20180524-current.xml",
+  "dump": "/path/to/tolkiengatewaynet_w-YYYYMMDD-current.xml",
   "ignore": {
-    "pages": ["Main Page"],
-    "htmlElements": ["aside", "table"],
-    "sections": ["See (A|a)lso", "References", "External (L|l)inks"]
+    "pages": ["Main Page", "^.{1,3}$"],
+    "sections": ["See (A|a)lso", "References", "External (L|l)inks"],
+    "htmlElements": ["aside", "table"]
   },
   "replace": {
     "markdown": [
