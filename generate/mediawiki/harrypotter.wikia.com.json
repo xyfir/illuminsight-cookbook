@@ -1,0 +1,10 @@
+{
+  "set": 42448,
+  "url": "http://harrypotter.wikia.com",
+  "dump": "/path/to/dump.xml",
+  "ignore": {
+    "titles": ["Main Page", "^.{1,3}$"],
+    "sections": ["See also", "References", "External links"]
+  },
+  "namespaces": [0]
+}
