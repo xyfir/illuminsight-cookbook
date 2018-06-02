@@ -1,0 +1,10 @@
+{
+  "set": 42452,
+  "url": "http://camorr.wikia.com",
+  "dump": "/path/to/camorr-wikia/dump.xml",
+  "ignore": {
+    "titles": ["Main Page", "^.{1,3}$"],
+    "sections": ["See also", "References", "External links"]
+  },
+  "namespaces": [0]
+}
