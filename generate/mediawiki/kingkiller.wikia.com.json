@@ -1,0 +1,10 @@
+{
+  "set": 42460,
+  "url": "http://kingkiller.wikia.com",
+  "dump": "/path/to/kingkiller-wikia/dump.xml",
+  "ignore": {
+    "titles": ["Main Page", "^.{1,3}$"],
+    "sections": ["See also", "References", "External links"]
+  },
+  "namespaces": [0]
+}
