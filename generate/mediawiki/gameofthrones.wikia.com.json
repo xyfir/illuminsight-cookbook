@@ -1,0 +1,10 @@
+{
+  "set": 42450,
+  "url": "http://gameofthrones.wikia.com",
+  "dump": "/path/to/gameofthrones-wikia/dump.xml",
+  "ignore": {
+    "titles": ["Main Page", "^.{1,3}$"],
+    "sections": ["See also", "References", "External links"]
+  },
+  "namespaces": [0]
+}
