@@ -2,16 +2,17 @@
   "set": 42451,
   "url": "https://awoiaf.westeros.org",
   "api": "https://awoiaf.westeros.org/api.php",
-  "dump": "/path/to/awoiaf.westeros.org/awoiafwesterosorg-YYYYMMDD-current.xml",
+  "dump": "awoiafwesterosorg-YYYYMMDD-current.xml",
   "ignore": {
-    "titles": ["Main Page", "^.{1,3}$"],
+    "titles": ["Main Page", "^.{1,3}$", "^AWOIAF:"],
     "sections": ["See also", "References", "External links"],
     "htmlElements": ["aside", "table"]
   },
   "replace": {
     "markdown": [
       ["\\\\\\[\\[edit\\]\\(.+\\)\\\\\\]", ""],
-      ["\\[\\\\\\[\\d+\\\\\\]\\]\\(.*#cite_note-.+\\)", ""]
+      ["\\[\\\\\\[\\d+\\\\\\]\\]\\(.*#cite_note-.+\\)", ""],
+      ["\\\\\\[ \\[\\]\\(.+&action=edit&section=\\d+\\) \\\\\\]", ""]
     ]
   }
 }
