@@ -1,0 +1,10 @@
+{
+  "set": 42484,
+  "url": "http://themagicians.wikia.com",
+  "dump": "dump.xml",
+  "ignore": {
+    "titles": ["^The Magicians Wiki$", "^.{1,3}$"],
+    "sections": ["See also", "References", "External links"]
+  },
+  "namespaces": [0]
+}
