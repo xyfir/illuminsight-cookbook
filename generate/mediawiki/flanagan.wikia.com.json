@@ -1,0 +1,10 @@
+{
+  "set": 42479,
+  "url": "http://flanagan.wikia.com",
+  "dump": "dump.xml",
+  "ignore": {
+    "titles": ["^Flanagan Wiki$", "^.{1,3}$"],
+    "sections": ["See also", "References", "External links"]
+  },
+  "namespaces": [0]
+}
