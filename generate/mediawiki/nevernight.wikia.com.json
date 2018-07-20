@@ -1,0 +1,10 @@
+{
+  "set": 42486,
+  "url": "http://nevernight.wikia.com",
+  "dump": "dump.xml",
+  "ignore": {
+    "titles": ["^Nevernight Wiki$", "^.{1,3}$"],
+    "sections": ["See also", "References", "External links"]
+  },
+  "namespaces": [0]
+}
