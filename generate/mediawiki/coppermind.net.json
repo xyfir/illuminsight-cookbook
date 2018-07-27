@@ -25,13 +25,19 @@
       "^An accountability of Virtue$",
       "^Arcanum Unbounded$"
     ],
-    "sections": ["See also", "References", "External links"],
+    "sections": [
+      "Notes",
+      "Contents",
+      "See also",
+      "References",
+      "External links"
+    ],
     "htmlElements": ["aside", "table"]
   },
   "replace": {
     "markdown": [
       ["\\\\\\[\\[edit\\]\\(.+\\)\\\\\\]", ""],
-      ["\\[\\\\\\[\\d+\\\\\\]\\]\\(.*#cite_note-.+\\)", ""],
+      ["\\[\\\\\\[\\d+\\\\\\]\\]\\(.*#cite_(note|ref)-.+\\)", ""],
       ["\\\\\\[ \\[\\]\\(.+&action=edit&section=\\d+\\) \\\\\\]", ""]
     ]
   }
