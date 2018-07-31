@@ -38,7 +38,11 @@
     "markdown": [
       ["\\\\\\[\\[edit\\]\\(.+\\)\\\\\\]", ""],
       ["\\[\\\\\\[\\d+\\\\\\]\\]\\(.*#cite_(note|ref)-.+\\)", ""],
-      ["\\\\\\[ \\[\\]\\(.+&action=edit&section=\\d+\\) \\\\\\]", ""]
+      ["\\\\\\[ \\[\\]\\(.+&action=edit&section=\\d+\\) \\\\\\]", ""],
+      [
+        "\\(https:\\/\\/coppermind\\.net\\/w\\/images\\/thumb\\/(.+)\\/\\d+px-.+?\\)",
+        "(https://coppermind.net/w/images/$1)"
+      ]
     ]
   }
 }
