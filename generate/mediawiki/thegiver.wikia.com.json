@@ -1,0 +1,10 @@
+{
+  "set": 42537,
+  "url": "http://thegiver.wikia.com",
+  "dump": "C:\\Users\\_\\Documents\\Wikis\\thegiver-wikia\\dump.xml",
+  "ignore": {
+    "titles": ["Main Page", "^.{1,3}$"],
+    "sections": ["See also", "References", "External links"]
+  },
+  "namespaces": [0]
+}
