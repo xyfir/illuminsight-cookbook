@@ -1,0 +1,10 @@
+{
+  "set": 42542,
+  "url": "http://xanth.wikia.com",
+  "dump": "C:\\Users\\_\\Documents\\Wikis\\xanth-wikia\\dump.xml",
+  "ignore": {
+    "titles": ["Main Page", "^.{1,3}$"],
+    "sections": ["See also", "References", "External links"]
+  },
+  "namespaces": [0]
+}
