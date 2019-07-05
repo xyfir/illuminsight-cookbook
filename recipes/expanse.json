@@ -1,0 +1,11 @@
+{
+  "search": {
+    "context": "expanse",
+    "url": "https://www.google.com/search?q="
+  },
+  "wiki": {
+    "name": "expanse.wikia.com",
+    "api": "http://expanse.wikia.com/api.php",
+    "url": "http://expanse.wikia.com/wiki/"
+  }
+}

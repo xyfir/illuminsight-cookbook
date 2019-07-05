@@ -1,0 +1,11 @@
+{
+  "search": {
+    "context": "john-wayne-cleaver",
+    "url": "https://www.google.com/search?q="
+  },
+  "wiki": {
+    "name": "john-wayne-cleaver.wikia.com",
+    "api": "http://john-wayne-cleaver.wikia.com/api.php",
+    "url": "http://john-wayne-cleaver.wikia.com/wiki/"
+  }
+}

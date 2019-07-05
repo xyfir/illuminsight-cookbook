@@ -1,0 +1,11 @@
+{
+  "search": {
+    "context": "outlander",
+    "url": "https://www.google.com/search?q="
+  },
+  "wiki": {
+    "name": "outlander.wikia.com",
+    "api": "http://outlander.wikia.com/api.php",
+    "url": "http://outlander.wikia.com/wiki/"
+  }
+}

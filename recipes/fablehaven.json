@@ -1,0 +1,11 @@
+{
+  "search": {
+    "context": "fablehaven",
+    "url": "https://www.google.com/search?q="
+  },
+  "wiki": {
+    "name": "fablehaven.wikia.com",
+    "api": "http://fablehaven.wikia.com/api.php",
+    "url": "http://fablehaven.wikia.com/wiki/"
+  }
+}

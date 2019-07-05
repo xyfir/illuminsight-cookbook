@@ -1,0 +1,11 @@
+{
+  "search": {
+    "context": "jackryan",
+    "url": "https://www.google.com/search?q="
+  },
+  "wiki": {
+    "name": "jackryan.wikia.com",
+    "api": "http://jackryan.wikia.com/api.php",
+    "url": "http://jackryan.wikia.com/wiki/"
+  }
+}

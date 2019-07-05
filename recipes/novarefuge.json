@@ -1,0 +1,11 @@
+{
+  "search": {
+    "context": "novarefuge",
+    "url": "https://www.google.com/search?q="
+  },
+  "wiki": {
+    "name": "novarefuge.wikia.com",
+    "api": "http://novarefuge.wikia.com/api.php",
+    "url": "http://novarefuge.wikia.com/wiki/"
+  }
+}

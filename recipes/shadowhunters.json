@@ -1,0 +1,11 @@
+{
+  "search": {
+    "context": "shadowhunters",
+    "url": "https://www.google.com/search?q="
+  },
+  "wiki": {
+    "name": "shadowhunters.wikia.com",
+    "api": "http://shadowhunters.wikia.com/api.php",
+    "url": "http://shadowhunters.wikia.com/wiki/"
+  }
+}

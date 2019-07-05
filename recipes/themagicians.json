@@ -1,0 +1,11 @@
+{
+  "search": {
+    "context": "themagicians",
+    "url": "https://www.google.com/search?q="
+  },
+  "wiki": {
+    "name": "themagicians.wikia.com",
+    "api": "http://themagicians.wikia.com/api.php",
+    "url": "http://themagicians.wikia.com/wiki/"
+  }
+}

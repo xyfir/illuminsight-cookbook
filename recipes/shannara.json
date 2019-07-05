@@ -1,0 +1,11 @@
+{
+  "search": {
+    "context": "shannara",
+    "url": "https://www.google.com/search?q="
+  },
+  "wiki": {
+    "name": "shannara.wikia.com",
+    "api": "http://shannara.wikia.com/api.php",
+    "url": "http://shannara.wikia.com/wiki/"
+  }
+}

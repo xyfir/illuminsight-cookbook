@@ -1,0 +1,11 @@
+{
+  "search": {
+    "context": "redwall",
+    "url": "https://www.google.com/search?q="
+  },
+  "wiki": {
+    "name": "redwall.wikia.com",
+    "api": "http://redwall.wikia.com/api.php",
+    "url": "http://redwall.wikia.com/wiki/"
+  }
+}

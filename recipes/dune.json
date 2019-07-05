@@ -1,0 +1,11 @@
+{
+  "search": {
+    "context": "dune",
+    "url": "https://www.google.com/search?q="
+  },
+  "wiki": {
+    "name": "dune.wikia.com",
+    "api": "http://dune.wikia.com/api.php",
+    "url": "http://dune.wikia.com/wiki/"
+  }
+}

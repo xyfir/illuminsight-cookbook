@@ -1,0 +1,11 @@
+{
+  "search": {
+    "context": "camorr",
+    "url": "https://www.google.com/search?q="
+  },
+  "wiki": {
+    "name": "camorr.wikia.com",
+    "api": "http://camorr.wikia.com/api.php",
+    "url": "http://camorr.wikia.com/wiki/"
+  }
+}

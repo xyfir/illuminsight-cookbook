@@ -1,0 +1,11 @@
+{
+  "search": {
+    "context": "dianawynnejones",
+    "url": "https://www.google.com/search?q="
+  },
+  "wiki": {
+    "name": "dianawynnejones.wikia.com",
+    "api": "http://dianawynnejones.wikia.com/api.php",
+    "url": "http://dianawynnejones.wikia.com/wiki/"
+  }
+}

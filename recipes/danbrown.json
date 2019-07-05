@@ -1,0 +1,11 @@
+{
+  "search": {
+    "context": "danbrown",
+    "url": "https://www.google.com/search?q="
+  },
+  "wiki": {
+    "name": "danbrown.wikia.com",
+    "api": "http://danbrown.wikia.com/api.php",
+    "url": "http://danbrown.wikia.com/wiki/"
+  }
+}

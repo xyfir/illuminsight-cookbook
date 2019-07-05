@@ -1,0 +1,11 @@
+{
+  "search": {
+    "context": "acourtofthornsandroses",
+    "url": "https://www.google.com/search?q="
+  },
+  "wiki": {
+    "name": "acourtofthornsandroses.wikia.com",
+    "api": "http://acourtofthornsandroses.wikia.com/api.php",
+    "url": "http://acourtofthornsandroses.wikia.com/wiki/"
+  }
+}

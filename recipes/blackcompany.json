@@ -1,0 +1,11 @@
+{
+  "search": {
+    "context": "blackcompany",
+    "url": "https://www.google.com/search?q="
+  },
+  "wiki": {
+    "name": "blackcompany.wikia.com",
+    "api": "http://blackcompany.wikia.com/api.php",
+    "url": "http://blackcompany.wikia.com/wiki/"
+  }
+}

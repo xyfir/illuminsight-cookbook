@@ -1,0 +1,11 @@
+{
+  "search": {
+    "context": "zamonia",
+    "url": "https://www.google.com/search?q="
+  },
+  "wiki": {
+    "name": "zamonia.wikia.com",
+    "api": "http://zamonia.wikia.com/api.php",
+    "url": "http://zamonia.wikia.com/wiki/"
+  }
+}

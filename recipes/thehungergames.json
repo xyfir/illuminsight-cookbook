@@ -1,0 +1,11 @@
+{
+  "search": {
+    "context": "thehungergames",
+    "url": "https://www.google.com/search?q="
+  },
+  "wiki": {
+    "name": "thehungergames.wikia.com",
+    "api": "http://thehungergames.wikia.com/api.php",
+    "url": "http://thehungergames.wikia.com/wiki/"
+  }
+}

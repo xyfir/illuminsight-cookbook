@@ -1,0 +1,11 @@
+{
+  "search": {
+    "context": "kingkiller",
+    "url": "https://www.google.com/search?q="
+  },
+  "wiki": {
+    "name": "kingkiller.wikia.com",
+    "api": "http://kingkiller.wikia.com/api.php",
+    "url": "http://kingkiller.wikia.com/wiki/"
+  }
+}

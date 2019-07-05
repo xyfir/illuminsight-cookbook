@@ -1,0 +1,11 @@
+{
+  "search": {
+    "context": "shadesofmagic",
+    "url": "https://www.google.com/search?q="
+  },
+  "wiki": {
+    "name": "shadesofmagic.wikia.com",
+    "api": "http://shadesofmagic.wikia.com/api.php",
+    "url": "http://shadesofmagic.wikia.com/wiki/"
+  }
+}

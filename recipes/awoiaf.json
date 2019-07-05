@@ -1,0 +1,11 @@
+{
+  "search": {
+    "context": "awoiaf",
+    "url": "https://www.google.com/search?q="
+  },
+  "wiki": {
+    "name": "awoiaf.westeros.org",
+    "api": "https://awoiaf.westeros.org/api.php",
+    "url": "https://awoiaf.westeros.org/wiki/"
+  }
+}

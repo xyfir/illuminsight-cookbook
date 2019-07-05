@@ -1,0 +1,11 @@
+{
+  "search": {
+    "context": "mistborn",
+    "url": "https://www.google.com/search?q="
+  },
+  "wiki": {
+    "name": "mistborn.wikia.com",
+    "api": "http://mistborn.wikia.com/api.php",
+    "url": "http://mistborn.wikia.com/wiki/"
+  }
+}

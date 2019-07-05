@@ -1,0 +1,11 @@
+{
+  "search": {
+    "context": "beyonders",
+    "url": "https://www.google.com/search?q="
+  },
+  "wiki": {
+    "name": "beyonders.wikia.com",
+    "api": "http://beyonders.wikia.com/api.php",
+    "url": "http://beyonders.wikia.com/wiki/"
+  }
+}

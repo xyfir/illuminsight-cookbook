@@ -1,0 +1,11 @@
+{
+  "search": {
+    "context": "tolkiengateway",
+    "url": "https://www.google.com/search?q="
+  },
+  "wiki": {
+    "name": "tolkiengateway.net",
+    "api": "http://tolkiengateway.net/w/api.php",
+    "url": "http://tolkiengateway.net/wiki/"
+  }
+}

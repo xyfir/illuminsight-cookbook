@@ -1,0 +1,11 @@
+{
+  "search": {
+    "context": "watershipdown",
+    "url": "https://www.google.com/search?q="
+  },
+  "wiki": {
+    "name": "watershipdown.wikia.com",
+    "api": "http://watershipdown.wikia.com/api.php",
+    "url": "http://watershipdown.wikia.com/wiki/"
+  }
+}

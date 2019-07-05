@@ -1,0 +1,11 @@
+{
+  "search": {
+    "context": "inheritance",
+    "url": "https://www.google.com/search?q="
+  },
+  "wiki": {
+    "name": "inheritance.wikia.com",
+    "api": "http://inheritance.wikia.com/api.php",
+    "url": "http://inheritance.wikia.com/wiki/"
+  }
+}

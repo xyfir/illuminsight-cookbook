@@ -1,0 +1,11 @@
+{
+  "search": {
+    "context": "thedemoncycle",
+    "url": "https://www.google.com/search?q="
+  },
+  "wiki": {
+    "name": "thedemoncycle.wikia.com",
+    "api": "http://thedemoncycle.wikia.com/api.php",
+    "url": "http://thedemoncycle.wikia.com/wiki/"
+  }
+}

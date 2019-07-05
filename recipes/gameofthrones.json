@@ -1,0 +1,11 @@
+{
+  "search": {
+    "context": "gameofthrones",
+    "url": "https://www.google.com/search?q="
+  },
+  "wiki": {
+    "name": "gameofthrones.wikia.com",
+    "api": "http://gameofthrones.wikia.com/api.php",
+    "url": "http://gameofthrones.wikia.com/wiki/"
+  }
+}

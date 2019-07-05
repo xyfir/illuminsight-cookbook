@@ -1,0 +1,11 @@
+{
+  "search": {
+    "context": "stormlightarchive",
+    "url": "https://www.google.com/search?q="
+  },
+  "wiki": {
+    "name": "stormlightarchive.wikia.com",
+    "api": "http://stormlightarchive.wikia.com/api.php",
+    "url": "http://stormlightarchive.wikia.com/wiki/"
+  }
+}

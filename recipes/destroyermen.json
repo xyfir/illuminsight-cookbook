@@ -1,0 +1,11 @@
+{
+  "search": {
+    "context": "destroyermen",
+    "url": "https://www.google.com/search?q="
+  },
+  "wiki": {
+    "name": "destroyermen.wikia.com",
+    "api": "http://destroyermen.wikia.com/api.php",
+    "url": "http://destroyermen.wikia.com/wiki/"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "search": {
+    "context": "ericflint",
+    "url": "https://www.google.com/search?q="
+  },
+  "wiki": {
+    "name": "ericflint.wikia.com",
+    "api": "http://ericflint.wikia.com/api.php",
+    "url": "http://ericflint.wikia.com/wiki/"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "search": {
+    "context": "nightworld",
+    "url": "https://www.google.com/search?q="
+  },
+  "wiki": {
+    "name": "nightworld.wikia.com",
+    "api": "http://nightworld.wikia.com/api.php",
+    "url": "http://nightworld.wikia.com/wiki/"
+  }
+}

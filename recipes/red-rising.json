@@ -1,0 +1,11 @@
+{
+  "search": {
+    "context": "red-rising",
+    "url": "https://www.google.com/search?q="
+  },
+  "wiki": {
+    "name": "red-rising.wikia.com",
+    "api": "http://red-rising.wikia.com/api.php",
+    "url": "http://red-rising.wikia.com/wiki/"
+  }
+}

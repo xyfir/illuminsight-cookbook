@@ -1,0 +1,11 @@
+{
+  "search": {
+    "context": "vampirediaries",
+    "url": "https://www.google.com/search?q="
+  },
+  "wiki": {
+    "name": "vampirediaries.wikia.com",
+    "api": "http://vampirediaries.wikia.com/api.php",
+    "url": "http://vampirediaries.wikia.com/wiki/"
+  }
+}

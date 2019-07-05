@@ -1,0 +1,11 @@
+{
+  "search": {
+    "context": "gabrielallon",
+    "url": "https://www.google.com/search?q="
+  },
+  "wiki": {
+    "name": "gabrielallon.wikia.com",
+    "api": "http://gabrielallon.wikia.com/api.php",
+    "url": "http://gabrielallon.wikia.com/wiki/"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "search": {
+    "context": "bartimaeus",
+    "url": "https://www.google.com/search?q="
+  },
+  "wiki": {
+    "name": "bartimaeus.wikia.com",
+    "api": "http://bartimaeus.wikia.com/api.php",
+    "url": "http://bartimaeus.wikia.com/wiki/"
+  }
+}

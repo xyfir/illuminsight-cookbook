@@ -1,0 +1,11 @@
+{
+  "search": {
+    "context": "enderverse",
+    "url": "https://www.google.com/search?q="
+  },
+  "wiki": {
+    "name": "enderverse.wikia.com",
+    "api": "http://enderverse.wikia.com/api.php",
+    "url": "http://enderverse.wikia.com/wiki/"
+  }
+}

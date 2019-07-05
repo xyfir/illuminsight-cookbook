@@ -1,0 +1,11 @@
+{
+  "search": {
+    "context": "wiki",
+    "url": "https://www.google.com/search?q="
+  },
+  "wiki": {
+    "name": "wiki.lspace.org",
+    "api": "http://wiki.lspace.org/mediawiki/api.php",
+    "url": "http://wiki.lspace.org/wiki/"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "search": {
+    "context": "firstlaw",
+    "url": "https://www.google.com/search?q="
+  },
+  "wiki": {
+    "name": "firstlaw.wikia.com",
+    "api": "http://firstlaw.wikia.com/api.php",
+    "url": "http://firstlaw.wikia.com/wiki/"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "search": {
+    "context": "skulduggery",
+    "url": "https://www.google.com/search?q="
+  },
+  "wiki": {
+    "name": "skulduggery.wikia.com",
+    "api": "http://skulduggery.wikia.com/api.php",
+    "url": "http://skulduggery.wikia.com/wiki/"
+  }
+}

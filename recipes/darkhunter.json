@@ -1,0 +1,11 @@
+{
+  "search": {
+    "context": "darkhunter",
+    "url": "https://www.google.com/search?q="
+  },
+  "wiki": {
+    "name": "darkhunter.wikia.com",
+    "api": "http://darkhunter.wikia.com/api.php",
+    "url": "http://darkhunter.wikia.com/wiki/"
+  }
+}

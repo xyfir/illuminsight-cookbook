@@ -1,0 +1,11 @@
+{
+  "search": {
+    "context": "sot",
+    "url": "https://www.google.com/search?q="
+  },
+  "wiki": {
+    "name": "sot.wikia.com",
+    "api": "http://sot.wikia.com/api.php",
+    "url": "http://sot.wikia.com/wiki/"
+  }
+}

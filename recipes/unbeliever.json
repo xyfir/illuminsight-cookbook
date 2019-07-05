@@ -1,0 +1,11 @@
+{
+  "search": {
+    "context": "unbeliever",
+    "url": "https://www.google.com/search?q="
+  },
+  "wiki": {
+    "name": "unbeliever.wikia.com",
+    "api": "http://unbeliever.wikia.com/api.php",
+    "url": "http://unbeliever.wikia.com/wiki/"
+  }
+}

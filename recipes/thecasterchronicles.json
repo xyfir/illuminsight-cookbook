@@ -1,0 +1,11 @@
+{
+  "search": {
+    "context": "thecasterchronicles",
+    "url": "https://www.google.com/search?q="
+  },
+  "wiki": {
+    "name": "thecasterchronicles.wikia.com",
+    "api": "http://thecasterchronicles.wikia.com/api.php",
+    "url": "http://thecasterchronicles.wikia.com/wiki/"
+  }
+}

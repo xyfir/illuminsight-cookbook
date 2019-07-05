@@ -1,0 +1,11 @@
+{
+  "search": {
+    "context": "princeofnothing",
+    "url": "https://www.google.com/search?q="
+  },
+  "wiki": {
+    "name": "princeofnothing.wikia.com",
+    "api": "http://princeofnothing.wikia.com/api.php",
+    "url": "http://princeofnothing.wikia.com/wiki/"
+  }
+}

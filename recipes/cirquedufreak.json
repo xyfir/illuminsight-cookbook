@@ -1,0 +1,11 @@
+{
+  "search": {
+    "context": "cirquedufreak",
+    "url": "https://www.google.com/search?q="
+  },
+  "wiki": {
+    "name": "cirquedufreak.wikia.com",
+    "api": "http://cirquedufreak.wikia.com/api.php",
+    "url": "http://cirquedufreak.wikia.com/wiki/"
+  }
+}

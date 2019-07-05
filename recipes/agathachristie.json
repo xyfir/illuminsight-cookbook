@@ -1,0 +1,11 @@
+{
+  "search": {
+    "context": "agathachristie",
+    "url": "https://www.google.com/search?q="
+  },
+  "wiki": {
+    "name": "agathachristie.wikia.com",
+    "api": "http://agathachristie.wikia.com/api.php",
+    "url": "http://agathachristie.wikia.com/wiki/"
+  }
+}

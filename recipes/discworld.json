@@ -1,0 +1,11 @@
+{
+  "search": {
+    "context": "discworld",
+    "url": "https://www.google.com/search?q="
+  },
+  "wiki": {
+    "name": "discworld.wikia.com",
+    "api": "http://discworld.wikia.com/api.php",
+    "url": "http://discworld.wikia.com/wiki/"
+  }
+}

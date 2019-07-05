@@ -1,0 +1,11 @@
+{
+  "search": {
+    "context": "stravaganza",
+    "url": "https://www.google.com/search?q="
+  },
+  "wiki": {
+    "name": "stravaganza.wikia.com",
+    "api": "http://stravaganza.wikia.com/api.php",
+    "url": "http://stravaganza.wikia.com/wiki/"
+  }
+}

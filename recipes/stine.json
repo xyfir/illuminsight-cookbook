@@ -1,0 +1,11 @@
+{
+  "search": {
+    "context": "stine",
+    "url": "https://www.google.com/search?q="
+  },
+  "wiki": {
+    "name": "stine.wikia.com",
+    "api": "http://stine.wikia.com/api.php",
+    "url": "http://stine.wikia.com/wiki/"
+  }
+}

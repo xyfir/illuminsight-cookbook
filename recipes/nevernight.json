@@ -1,0 +1,11 @@
+{
+  "search": {
+    "context": "nevernight",
+    "url": "https://www.google.com/search?q="
+  },
+  "wiki": {
+    "name": "nevernight.wikia.com",
+    "api": "http://nevernight.wikia.com/api.php",
+    "url": "http://nevernight.wikia.com/wiki/"
+  }
+}

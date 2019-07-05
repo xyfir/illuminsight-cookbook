@@ -1,0 +1,11 @@
+{
+  "search": {
+    "context": "thelandofstories",
+    "url": "https://www.google.com/search?q="
+  },
+  "wiki": {
+    "name": "thelandofstories.wikia.com",
+    "api": "http://thelandofstories.wikia.com/api.php",
+    "url": "http://thelandofstories.wikia.com/wiki/"
+  }
+}

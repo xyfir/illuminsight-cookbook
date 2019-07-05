@@ -1,0 +1,11 @@
+{
+  "search": {
+    "context": "darktower",
+    "url": "https://www.google.com/search?q="
+  },
+  "wiki": {
+    "name": "darktower.wikia.com",
+    "api": "http://darktower.wikia.com/api.php",
+    "url": "http://darktower.wikia.com/wiki/"
+  }
+}

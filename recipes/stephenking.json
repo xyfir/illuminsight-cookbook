@@ -1,0 +1,11 @@
+{
+  "search": {
+    "context": "stephenking",
+    "url": "https://www.google.com/search?q="
+  },
+  "wiki": {
+    "name": "stephenking.wikia.com",
+    "api": "http://stephenking.wikia.com/api.php",
+    "url": "http://stephenking.wikia.com/wiki/"
+  }
+}

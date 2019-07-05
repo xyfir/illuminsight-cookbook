@@ -1,0 +1,11 @@
+{
+  "search": {
+    "context": "tamorapierce",
+    "url": "https://www.google.com/search?q="
+  },
+  "wiki": {
+    "name": "tamorapierce.wikia.com",
+    "api": "http://tamorapierce.wikia.com/api.php",
+    "url": "http://tamorapierce.wikia.com/wiki/"
+  }
+}

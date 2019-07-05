@@ -1,0 +1,11 @@
+{
+  "search": {
+    "context": "bakerstreet",
+    "url": "https://www.google.com/search?q="
+  },
+  "wiki": {
+    "name": "bakerstreet.wikia.com",
+    "api": "http://bakerstreet.wikia.com/api.php",
+    "url": "http://bakerstreet.wikia.com/wiki/"
+  }
+}
