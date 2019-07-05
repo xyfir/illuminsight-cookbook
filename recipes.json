@@ -41,28 +41,32 @@
     "authors": "Trudi Canavan"
   },
   {
-    "id": "cassandra-palmer-world",
-    "series": "cassandra-palmer-world"
+    "id": "cassandra-palmer",
+    "series": "Cassandra Palmer"
   },
   {
-    "id": "cirquedufreak",
-    "series": "cirquedufreak"
+    "id": "cirque-du-freak",
+    "series": "Cirque du Freak"
   },
   {
-    "id": "cloudatlas",
-    "series": "cloudatlas"
+    "id": "cloud-atlas",
+    "series": "Cloud Atlas"
   },
   {
     "id": "coppermind",
     "series": "coppermind"
   },
   {
-    "id": "danbrown",
-    "series": "danbrown"
+    "id": "dan brown",
+    "authors": "Dan Brown"
   },
   {
-    "id": "darktower",
-    "series": "darktower"
+    "id": "dark-hunter",
+    "series": "Dark Hunter"
+  },
+  {
+    "id": "dark-tower",
+    "series": "Dark Tower"
   },
   {
     "id": "deltora",
