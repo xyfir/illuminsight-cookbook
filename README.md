@@ -8,7 +8,7 @@ If you'd like to add a new recipe or improve an existing one:
 
 1. Add or edit a JSON file in `recipes/`.
 2. Update `recipes.json` if needed.
-3. Run `node build`.
+3. Run `npm run build`.
 4. Submit your pull request.
 
 You can of course also write and use recipes outside of the cookbook, but putting your recipes here gives it first-class support within the illuminsight app, in addition to allowing others to easily improve upon it.

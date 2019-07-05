@@ -1,0 +1,18 @@
+{
+  "name": "illuminsight-cookbook",
+  "version": "0.1.0",
+  "description": "Recipes for illuminsight.",
+  "scripts": {
+    "build": "node build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xyfir/illuminsight-cookbook.git"
+  },
+  "author": "Xyfir, LLC <contact@xyfir.com> (https://www.xyfir.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xyfir/illuminsight-cookbook/issues"
+  },
+  "homepage": "https://github.com/xyfir/illuminsight-cookbook#readme"
+}
