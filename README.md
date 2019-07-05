@@ -26,7 +26,7 @@ Array<{
   /**
    * File name without extension within `recipes/`.
    * @example "a-song-of-ice-and-fire"
-   * @example "lord-of-the-rings"
+   * @example "the-lord-of-the-rings"
    * @example "harry-potter"
    */
   id: string;
@@ -56,8 +56,9 @@ Array<{
 
 Regarding `id` and its corresponding recipe file name:
 
-- It should be as _short_ and _descriptive_ as possible.
+- It should be as _short_ and _descriptive_ as possible without abbreviations or truncation. Generally, if you stick to something's official title you should be good.
 - Use hyphens to separate spaces.
+- Use all lowercase characters.
 - Avoid acronyms as they're likely to lead to confusion and future conflicts.
 - An id should _rarely_, if _ever_ change! Choose wisely.
 
