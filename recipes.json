@@ -12,29 +12,29 @@
     "authors": "Anita Blake"
   },
   {
-    "id": "asoiaf",
+    "id": "a-song-of-ice-and-fire",
     "series": "ASOIAF A Song of Ice and Fire Game of Thrones",
-    "authors": "George R.R. Martin GRRM"
+    "authors": "George R.R. Martin GRRM George RR Martin George R. R. Martin"
   },
   {
     "id": "baker-street",
     "series": "Baker Street"
   },
   {
-    "id": "bartimaeus",
-    "series": "Bartimaeus"
+    "id": "bartimaeus-sequence",
+    "series": "The Bartimaeus Sequence The Bartimaeus Trilogy"
   },
   {
     "id": "beyonders",
     "series": "Beyonders"
   },
   {
-    "id": "black-company",
-    "series": "Black Company"
+    "id": "the-black-company",
+    "series": "The Black Company"
   },
   {
-    "id": "gentleman-bastards",
-    "series": "Gentleman Bastards"
+    "id": "gentleman-bastard",
+    "series": "The Gentleman Bastard Sequence"
   },
   {
     "id": "trudi-canavan",
@@ -57,40 +57,43 @@
     "series": "coppermind"
   },
   {
-    "id": "dan brown",
+    "id": "dan-brown",
+    "series": "Robert Langdon",
     "authors": "Dan Brown"
   },
   {
     "id": "dark-hunter",
-    "series": "Dark Hunter"
+    "series": "Dark-Hunter Dark Hunter"
   },
   {
-    "id": "dark-tower",
-    "series": "Dark Tower"
+    "id": "the-dark-tower",
+    "series": "The Dark Tower"
   },
   {
-    "id": "deltora",
-    "series": "deltora"
+    "id": "deltora-quest",
+    "series": "Deltora Quest"
   },
   {
     "id": "destroyermen",
-    "series": "destroyermen"
+    "series": "Destroyermen"
   },
   {
-    "id": "dianawynnejones",
-    "series": "dianawynnejones"
+    "id": "diana-wynne-jones",
+    "authors": "Diana Wynne Jones"
   },
   {
     "id": "discworld",
-    "series": "discworld"
+    "series": "discworld",
+    "authors": "Terry Pratchett"
   },
   {
     "id": "divergent",
-    "series": "divergent"
+    "series": "Divergent"
   },
   {
-    "id": "dresdenfiles",
-    "series": "dresdenfiles"
+    "id": "the-dresden-files",
+    "series": "The Dresden Files",
+    "authors": "Jim Butcher"
   },
   {
     "id": "dune",
