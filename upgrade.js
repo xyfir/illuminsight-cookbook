@@ -3,27 +3,16 @@ const { writeFileSync, readFileSync } = require('fs');
 const indexes = JSON.parse(readFileSync('./recipes.json', 'utf8'));
 
 for (let index of indexes) {
+  // Remove auto-generated authors/series/books
+  if (index.authors == index.id) delete index.authors;
+  if (index.series == index.id) delete index.series;
+  if (index.books == index.id) delete index.books;
+
   // Read recipe
   const recipe = JSON.parse(readFileSync(`./recipes/${index.id}.json`, 'utf8'));
 
-  // Multiple searches w/ name
-  recipe.searches = [{ ...recipe.search, name: 'Google' }];
-  delete recipe.search;
-
-  // Multiple wikis w/ Wikipedia fallback
-  recipe.wikis = [
-    recipe.wiki,
-    {
-      name: 'Wikipedia',
-      api: 'https://en.wikipedia.org/w/api.php',
-      url: 'https://en.wikipedia.org/wiki/'
-    }
-  ];
-  delete recipe.wiki;
-
-  // Add id
-  recipe.id = index.id;
-
-  // Update file
+  // Update recipe
   writeFileSync(`./recipes/${index.id}.json`, JSON.stringify(recipe, null, 2));
 }
+
+writeFileSync('./recipes.json', JSON.stringify(indexes, null, 2));
