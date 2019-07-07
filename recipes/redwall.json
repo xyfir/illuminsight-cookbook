@@ -1,11 +1,22 @@
 {
-  "search": {
-    "context": "redwall",
-    "url": "https://www.google.com/search?q="
-  },
-  "wiki": {
-    "name": "redwall.wikia.com",
-    "api": "http://redwall.wikia.com/api.php",
-    "url": "http://redwall.wikia.com/wiki/"
-  }
+  "searches": [
+    {
+      "context": "redwall",
+      "url": "https://www.google.com/search?q=",
+      "name": "Google"
+    }
+  ],
+  "wikis": [
+    {
+      "name": "redwall.wikia.com",
+      "api": "http://redwall.wikia.com/api.php",
+      "url": "http://redwall.wikia.com/wiki/"
+    },
+    {
+      "name": "Wikipedia",
+      "api": "https://en.wikipedia.org/w/api.php",
+      "url": "https://en.wikipedia.org/wiki/"
+    }
+  ],
+  "id": "redwall"
 }

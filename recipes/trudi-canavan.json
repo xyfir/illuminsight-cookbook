@@ -1,11 +1,22 @@
 {
-  "search": {
-    "context": "trudi canavan",
-    "url": "https://www.google.com/search?q="
-  },
-  "wiki": {
-    "name": "canavansbooks.wikia.com",
-    "api": "http://canavansbooks.wikia.com/api.php",
-    "url": "http://canavansbooks.wikia.com/wiki/"
-  }
+  "searches": [
+    {
+      "context": "trudi canavan",
+      "url": "https://www.google.com/search?q=",
+      "name": "Google"
+    }
+  ],
+  "wikis": [
+    {
+      "name": "canavansbooks.wikia.com",
+      "api": "http://canavansbooks.wikia.com/api.php",
+      "url": "http://canavansbooks.wikia.com/wiki/"
+    },
+    {
+      "name": "Wikipedia",
+      "api": "https://en.wikipedia.org/w/api.php",
+      "url": "https://en.wikipedia.org/wiki/"
+    }
+  ],
+  "id": "trudi-canavan"
 }

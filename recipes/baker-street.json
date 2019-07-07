@@ -1,11 +1,22 @@
 {
-  "search": {
-    "context": "baker street",
-    "url": "https://www.google.com/search?q="
-  },
-  "wiki": {
-    "name": "bakerstreet.wikia.com",
-    "api": "http://bakerstreet.wikia.com/api.php",
-    "url": "http://bakerstreet.wikia.com/wiki/"
-  }
+  "searches": [
+    {
+      "context": "baker street",
+      "url": "https://www.google.com/search?q=",
+      "name": "Google"
+    }
+  ],
+  "wikis": [
+    {
+      "name": "bakerstreet.wikia.com",
+      "api": "http://bakerstreet.wikia.com/api.php",
+      "url": "http://bakerstreet.wikia.com/wiki/"
+    },
+    {
+      "name": "Wikipedia",
+      "api": "https://en.wikipedia.org/w/api.php",
+      "url": "https://en.wikipedia.org/wiki/"
+    }
+  ],
+  "id": "baker-street"
 }

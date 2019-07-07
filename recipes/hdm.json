@@ -1,11 +1,22 @@
 {
-  "search": {
-    "context": "hdm",
-    "url": "https://www.google.com/search?q="
-  },
-  "wiki": {
-    "name": "hdm.wikia.com",
-    "api": "http://hdm.wikia.com/api.php",
-    "url": "http://hdm.wikia.com/wiki/"
-  }
+  "searches": [
+    {
+      "context": "hdm",
+      "url": "https://www.google.com/search?q=",
+      "name": "Google"
+    }
+  ],
+  "wikis": [
+    {
+      "name": "hdm.wikia.com",
+      "api": "http://hdm.wikia.com/api.php",
+      "url": "http://hdm.wikia.com/wiki/"
+    },
+    {
+      "name": "Wikipedia",
+      "api": "https://en.wikipedia.org/w/api.php",
+      "url": "https://en.wikipedia.org/wiki/"
+    }
+  ],
+  "id": "hdm"
 }

@@ -1,11 +1,22 @@
 {
-  "search": {
-    "context": "lotr",
-    "url": "https://www.google.com/search?q="
-  },
-  "wiki": {
-    "name": "lotr.wikia.com",
-    "api": "http://lotr.wikia.com/api.php",
-    "url": "http://lotr.wikia.com/wiki/"
-  }
+  "searches": [
+    {
+      "context": "lotr",
+      "url": "https://www.google.com/search?q=",
+      "name": "Google"
+    }
+  ],
+  "wikis": [
+    {
+      "name": "lotr.wikia.com",
+      "api": "http://lotr.wikia.com/api.php",
+      "url": "http://lotr.wikia.com/wiki/"
+    },
+    {
+      "name": "Wikipedia",
+      "api": "https://en.wikipedia.org/w/api.php",
+      "url": "https://en.wikipedia.org/wiki/"
+    }
+  ],
+  "id": "lotr"
 }

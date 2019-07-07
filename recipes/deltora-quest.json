@@ -1,16 +1,16 @@
 {
   "searches": [
     {
-      "context": "bartimaeus",
+      "context": "deltora",
       "url": "https://www.google.com/search?q=",
       "name": "Google"
     }
   ],
   "wikis": [
     {
-      "name": "bartimaeus.wikia.com",
-      "api": "http://bartimaeus.wikia.com/api.php",
-      "url": "http://bartimaeus.wikia.com/wiki/"
+      "name": "deltora.wikia.com",
+      "api": "http://deltora.wikia.com/api.php",
+      "url": "http://deltora.wikia.com/wiki/"
     },
     {
       "name": "Wikipedia",
@@ -18,5 +18,5 @@
       "url": "https://en.wikipedia.org/wiki/"
     }
   ],
-  "id": "bartimaeus-sequence"
+  "id": "deltora-quest"
 }

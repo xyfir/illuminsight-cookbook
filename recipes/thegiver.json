@@ -1,11 +1,22 @@
 {
-  "search": {
-    "context": "thegiver",
-    "url": "https://www.google.com/search?q="
-  },
-  "wiki": {
-    "name": "thegiver.wikia.com",
-    "api": "http://thegiver.wikia.com/api.php",
-    "url": "http://thegiver.wikia.com/wiki/"
-  }
+  "searches": [
+    {
+      "context": "thegiver",
+      "url": "https://www.google.com/search?q=",
+      "name": "Google"
+    }
+  ],
+  "wikis": [
+    {
+      "name": "thegiver.wikia.com",
+      "api": "http://thegiver.wikia.com/api.php",
+      "url": "http://thegiver.wikia.com/wiki/"
+    },
+    {
+      "name": "Wikipedia",
+      "api": "https://en.wikipedia.org/w/api.php",
+      "url": "https://en.wikipedia.org/wiki/"
+    }
+  ],
+  "id": "thegiver"
 }

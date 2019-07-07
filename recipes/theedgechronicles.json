@@ -1,11 +1,22 @@
 {
-  "search": {
-    "context": "theedgechronicles",
-    "url": "https://www.google.com/search?q="
-  },
-  "wiki": {
-    "name": "theedgechronicles.wikia.com",
-    "api": "http://theedgechronicles.wikia.com/api.php",
-    "url": "http://theedgechronicles.wikia.com/wiki/"
-  }
+  "searches": [
+    {
+      "context": "theedgechronicles",
+      "url": "https://www.google.com/search?q=",
+      "name": "Google"
+    }
+  ],
+  "wikis": [
+    {
+      "name": "theedgechronicles.wikia.com",
+      "api": "http://theedgechronicles.wikia.com/api.php",
+      "url": "http://theedgechronicles.wikia.com/wiki/"
+    },
+    {
+      "name": "Wikipedia",
+      "api": "https://en.wikipedia.org/w/api.php",
+      "url": "https://en.wikipedia.org/wiki/"
+    }
+  ],
+  "id": "theedgechronicles"
 }

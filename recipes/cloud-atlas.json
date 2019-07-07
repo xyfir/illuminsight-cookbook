@@ -1,11 +1,22 @@
 {
-  "search": {
-    "context": "cloud atlas",
-    "url": "https://www.google.com/search?q="
-  },
-  "wiki": {
-    "name": "cloudatlas.wikia.com",
-    "api": "http://cloudatlas.wikia.com/api.php",
-    "url": "http://cloudatlas.wikia.com/wiki/"
-  }
+  "searches": [
+    {
+      "context": "cloud atlas",
+      "url": "https://www.google.com/search?q=",
+      "name": "Google"
+    }
+  ],
+  "wikis": [
+    {
+      "name": "cloudatlas.wikia.com",
+      "api": "http://cloudatlas.wikia.com/api.php",
+      "url": "http://cloudatlas.wikia.com/wiki/"
+    },
+    {
+      "name": "Wikipedia",
+      "api": "https://en.wikipedia.org/w/api.php",
+      "url": "https://en.wikipedia.org/wiki/"
+    }
+  ],
+  "id": "cloud-atlas"
 }

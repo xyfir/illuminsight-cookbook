@@ -1,11 +1,22 @@
 {
-  "search": {
-    "context": "hitchhikers",
-    "url": "https://www.google.com/search?q="
-  },
-  "wiki": {
-    "name": "hitchhikers.wikia.com",
-    "api": "http://hitchhikers.wikia.com/api.php",
-    "url": "http://hitchhikers.wikia.com/wiki/"
-  }
+  "searches": [
+    {
+      "context": "hitchhikers",
+      "url": "https://www.google.com/search?q=",
+      "name": "Google"
+    }
+  ],
+  "wikis": [
+    {
+      "name": "hitchhikers.wikia.com",
+      "api": "http://hitchhikers.wikia.com/api.php",
+      "url": "http://hitchhikers.wikia.com/wiki/"
+    },
+    {
+      "name": "Wikipedia",
+      "api": "https://en.wikipedia.org/w/api.php",
+      "url": "https://en.wikipedia.org/wiki/"
+    }
+  ],
+  "id": "hitchhikers"
 }

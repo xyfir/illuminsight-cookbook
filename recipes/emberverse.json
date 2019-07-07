@@ -1,11 +1,22 @@
 {
-  "search": {
-    "context": "emberverse",
-    "url": "https://www.google.com/search?q="
-  },
-  "wiki": {
-    "name": "emberverse.wikia.com",
-    "api": "http://emberverse.wikia.com/api.php",
-    "url": "http://emberverse.wikia.com/wiki/"
-  }
+  "searches": [
+    {
+      "context": "emberverse",
+      "url": "https://www.google.com/search?q=",
+      "name": "Google"
+    }
+  ],
+  "wikis": [
+    {
+      "name": "emberverse.wikia.com",
+      "api": "http://emberverse.wikia.com/api.php",
+      "url": "http://emberverse.wikia.com/wiki/"
+    },
+    {
+      "name": "Wikipedia",
+      "api": "https://en.wikipedia.org/w/api.php",
+      "url": "https://en.wikipedia.org/wiki/"
+    }
+  ],
+  "id": "emberverse"
 }

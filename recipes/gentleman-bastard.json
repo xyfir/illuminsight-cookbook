@@ -1,11 +1,22 @@
 {
-  "search": {
-    "context": "gentleman bastard",
-    "url": "https://www.google.com/search?q="
-  },
-  "wiki": {
-    "name": "camorr.wikia.com",
-    "api": "http://camorr.wikia.com/api.php",
-    "url": "http://camorr.wikia.com/wiki/"
-  }
+  "searches": [
+    {
+      "context": "gentleman bastard",
+      "url": "https://www.google.com/search?q=",
+      "name": "Google"
+    }
+  ],
+  "wikis": [
+    {
+      "name": "camorr.wikia.com",
+      "api": "http://camorr.wikia.com/api.php",
+      "url": "http://camorr.wikia.com/wiki/"
+    },
+    {
+      "name": "Wikipedia",
+      "api": "https://en.wikipedia.org/w/api.php",
+      "url": "https://en.wikipedia.org/wiki/"
+    }
+  ],
+  "id": "gentleman-bastard"
 }

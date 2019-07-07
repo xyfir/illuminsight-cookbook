@@ -1,11 +1,22 @@
 {
-  "search": {
-    "context": "skulduggery",
-    "url": "https://www.google.com/search?q="
-  },
-  "wiki": {
-    "name": "skulduggery.wikia.com",
-    "api": "http://skulduggery.wikia.com/api.php",
-    "url": "http://skulduggery.wikia.com/wiki/"
-  }
+  "searches": [
+    {
+      "context": "skulduggery",
+      "url": "https://www.google.com/search?q=",
+      "name": "Google"
+    }
+  ],
+  "wikis": [
+    {
+      "name": "skulduggery.wikia.com",
+      "api": "http://skulduggery.wikia.com/api.php",
+      "url": "http://skulduggery.wikia.com/wiki/"
+    },
+    {
+      "name": "Wikipedia",
+      "api": "https://en.wikipedia.org/w/api.php",
+      "url": "https://en.wikipedia.org/wiki/"
+    }
+  ],
+  "id": "skulduggery"
 }

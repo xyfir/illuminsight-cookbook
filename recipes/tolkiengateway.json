@@ -1,11 +1,22 @@
 {
-  "search": {
-    "context": "tolkiengateway",
-    "url": "https://www.google.com/search?q="
-  },
-  "wiki": {
-    "name": "tolkiengateway.net",
-    "api": "http://tolkiengateway.net/w/api.php",
-    "url": "http://tolkiengateway.net/wiki/"
-  }
+  "searches": [
+    {
+      "context": "tolkiengateway",
+      "url": "https://www.google.com/search?q=",
+      "name": "Google"
+    }
+  ],
+  "wikis": [
+    {
+      "name": "tolkiengateway.net",
+      "api": "http://tolkiengateway.net/w/api.php",
+      "url": "http://tolkiengateway.net/wiki/"
+    },
+    {
+      "name": "Wikipedia",
+      "api": "https://en.wikipedia.org/w/api.php",
+      "url": "https://en.wikipedia.org/wiki/"
+    }
+  ],
+  "id": "tolkiengateway"
 }

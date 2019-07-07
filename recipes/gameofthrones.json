@@ -1,11 +1,22 @@
 {
-  "search": {
-    "context": "gameofthrones",
-    "url": "https://www.google.com/search?q="
-  },
-  "wiki": {
-    "name": "gameofthrones.wikia.com",
-    "api": "http://gameofthrones.wikia.com/api.php",
-    "url": "http://gameofthrones.wikia.com/wiki/"
-  }
+  "searches": [
+    {
+      "context": "gameofthrones",
+      "url": "https://www.google.com/search?q=",
+      "name": "Google"
+    }
+  ],
+  "wikis": [
+    {
+      "name": "gameofthrones.wikia.com",
+      "api": "http://gameofthrones.wikia.com/api.php",
+      "url": "http://gameofthrones.wikia.com/wiki/"
+    },
+    {
+      "name": "Wikipedia",
+      "api": "https://en.wikipedia.org/w/api.php",
+      "url": "https://en.wikipedia.org/wiki/"
+    }
+  ],
+  "id": "gameofthrones"
 }

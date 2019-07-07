@@ -1,11 +1,22 @@
 {
-  "search": {
-    "context": "asoiaf",
-    "url": "https://www.google.com/search?q="
-  },
-  "wiki": {
-    "name": "awoiaf.westeros.org",
-    "api": "https://awoiaf.westeros.org/api.php",
-    "url": "https://awoiaf.westeros.org/wiki/"
-  }
+  "searches": [
+    {
+      "context": "asoiaf",
+      "url": "https://www.google.com/search?q=",
+      "name": "Google"
+    }
+  ],
+  "wikis": [
+    {
+      "name": "awoiaf.westeros.org",
+      "api": "https://awoiaf.westeros.org/api.php",
+      "url": "https://awoiaf.westeros.org/wiki/"
+    },
+    {
+      "name": "Wikipedia",
+      "api": "https://en.wikipedia.org/w/api.php",
+      "url": "https://en.wikipedia.org/wiki/"
+    }
+  ],
+  "id": "a-song-of-ice-and-fire"
 }
