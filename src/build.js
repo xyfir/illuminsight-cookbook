@@ -1,6 +1,6 @@
 const { writeFileSync, readFileSync } = require('fs');
 
-let recipes = JSON.parse(readFileSync('./recipes.json', 'utf8'));
+let recipes = JSON.parse(readFileSync('src/recipes.json', 'utf8'));
 
 // Sort A-Z by id
 recipes = recipes.sort((a, b) => {
@@ -17,5 +17,5 @@ const min = recipes.map(recipe => ({
   i: recipe.id
 }));
 
-writeFileSync('./recipes.json', JSON.stringify(recipes, null, 2));
-writeFileSync('./recipes.min.json', JSON.stringify(min));
+writeFileSync('src/recipes.json', JSON.stringify(recipes, null, 2));
+writeFileSync('dist/recipes.min.json', JSON.stringify(min));

@@ -1,0 +1,312 @@
+[
+  {
+    "id": "a-court-of-thorns-and-roses",
+    "series": "A Court of Thorns And Roses"
+  },
+  {
+    "id": "a-song-of-ice-and-fire",
+    "series": "ASOIAF A Song of Ice and Fire Game of Thrones",
+    "authors": "George R.R. Martin GRRM George RR Martin George R. R. Martin"
+  },
+  {
+    "id": "agatha-christie",
+    "authors": "Agatha Christie"
+  },
+  {
+    "id": "anita-blake",
+    "authors": "Anita Blake"
+  },
+  {
+    "id": "baker-street",
+    "series": "Baker Street"
+  },
+  {
+    "id": "bartimaeus-sequence",
+    "series": "The Bartimaeus Sequence The Bartimaeus Trilogy"
+  },
+  {
+    "id": "beyonders",
+    "series": "Beyonders"
+  },
+  {
+    "id": "cassandra-palmer",
+    "series": "Cassandra Palmer"
+  },
+  {
+    "id": "cirque-du-freak",
+    "series": "Cirque du Freak"
+  },
+  {
+    "id": "cloud-atlas",
+    "series": "Cloud Atlas"
+  },
+  {
+    "id": "coppermind"
+  },
+  {
+    "id": "dan-brown",
+    "series": "Robert Langdon",
+    "authors": "Dan Brown"
+  },
+  {
+    "id": "dark-hunter",
+    "series": "Dark-Hunter Dark Hunter"
+  },
+  {
+    "id": "deltora-quest",
+    "series": "Deltora Quest"
+  },
+  {
+    "id": "destroyermen",
+    "series": "Destroyermen"
+  },
+  {
+    "id": "diana-wynne-jones",
+    "authors": "Diana Wynne Jones"
+  },
+  {
+    "id": "discworld",
+    "authors": "Terry Pratchett"
+  },
+  {
+    "id": "divergent",
+    "series": "Divergent"
+  },
+  {
+    "id": "dune"
+  },
+  {
+    "id": "emberverse"
+  },
+  {
+    "id": "enderverse"
+  },
+  {
+    "id": "ericflint"
+  },
+  {
+    "id": "expanse"
+  },
+  {
+    "id": "fablehaven"
+  },
+  {
+    "id": "firstlaw"
+  },
+  {
+    "id": "flanagan"
+  },
+  {
+    "id": "gabrielallon"
+  },
+  {
+    "id": "gailcarriger"
+  },
+  {
+    "id": "gameofthrones"
+  },
+  {
+    "id": "gentleman-bastard",
+    "series": "The Gentleman Bastard Sequence"
+  },
+  {
+    "id": "harrypotter"
+  },
+  {
+    "id": "hdm"
+  },
+  {
+    "id": "hitchhikers"
+  },
+  {
+    "id": "honorverse"
+  },
+  {
+    "id": "iceandfire"
+  },
+  {
+    "id": "inheritance"
+  },
+  {
+    "id": "jackryan"
+  },
+  {
+    "id": "john-wayne-cleaver"
+  },
+  {
+    "id": "kingkiller"
+  },
+  {
+    "id": "kushiel"
+  },
+  {
+    "id": "lotr"
+  },
+  {
+    "id": "lunarchronicles"
+  },
+  {
+    "id": "malazan"
+  },
+  {
+    "id": "milleniumtrilogy"
+  },
+  {
+    "id": "mistborn"
+  },
+  {
+    "id": "monsterblood"
+  },
+  {
+    "id": "nevernight"
+  },
+  {
+    "id": "nightworld"
+  },
+  {
+    "id": "novarefuge"
+  },
+  {
+    "id": "outlander"
+  },
+  {
+    "id": "pendragon"
+  },
+  {
+    "id": "pern"
+  },
+  {
+    "id": "princeofnothing"
+  },
+  {
+    "id": "readyplayerone"
+  },
+  {
+    "id": "red-rising"
+  },
+  {
+    "id": "redwall"
+  },
+  {
+    "id": "riordan"
+  },
+  {
+    "id": "secretsnicholasflamel"
+  },
+  {
+    "id": "shadesofmagic"
+  },
+  {
+    "id": "shadowhunters"
+  },
+  {
+    "id": "shannara"
+  },
+  {
+    "id": "sharpe"
+  },
+  {
+    "id": "skulduggery"
+  },
+  {
+    "id": "sookiestackhouse"
+  },
+  {
+    "id": "sot"
+  },
+  {
+    "id": "spiderwick"
+  },
+  {
+    "id": "stephenking"
+  },
+  {
+    "id": "stine"
+  },
+  {
+    "id": "stormlightarchive"
+  },
+  {
+    "id": "stravaganza"
+  },
+  {
+    "id": "tamorapierce"
+  },
+  {
+    "id": "the-black-company",
+    "series": "The Black Company"
+  },
+  {
+    "id": "the-dark-tower",
+    "series": "The Dark Tower"
+  },
+  {
+    "id": "the-dresden-files",
+    "series": "The Dresden Files",
+    "authors": "Jim Butcher"
+  },
+  {
+    "id": "the-guild-hunter-series"
+  },
+  {
+    "id": "thecasterchronicles"
+  },
+  {
+    "id": "thedemoncycle"
+  },
+  {
+    "id": "theedgechronicles"
+  },
+  {
+    "id": "thegiver"
+  },
+  {
+    "id": "thegrishaverse"
+  },
+  {
+    "id": "thehungergames"
+  },
+  {
+    "id": "thelandofstories"
+  },
+  {
+    "id": "themagicians"
+  },
+  {
+    "id": "thespooksapprentice"
+  },
+  {
+    "id": "throneofglass"
+  },
+  {
+    "id": "tolkiengateway"
+  },
+  {
+    "id": "trudi-canavan",
+    "authors": "Trudi Canavan"
+  },
+  {
+    "id": "twilightsaga"
+  },
+  {
+    "id": "unbeliever"
+  },
+  {
+    "id": "unwind"
+  },
+  {
+    "id": "vampirediaries"
+  },
+  {
+    "id": "watershipdown"
+  },
+  {
+    "id": "wot"
+  },
+  {
+    "id": "xanth"
+  },
+  {
+    "id": "zamonia"
+  }
+]

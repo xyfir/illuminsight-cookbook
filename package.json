@@ -3,7 +3,8 @@
   "version": "0.1.0",
   "description": "Recipes for illuminsight.",
   "scripts": {
-    "build": "node build"
+    "upgrade": "node src/upgrade",
+    "build": "node src/build"
   },
   "repository": {
     "type": "git",
