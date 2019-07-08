@@ -1,16 +1,21 @@
 {
   "searches": [
     {
-      "context": "coppermind",
+      "context": "Brandon Sanderson",
       "url": "https://www.google.com/search?q=",
       "name": "Google"
     }
   ],
   "wikis": [
     {
-      "name": "coppermind.net",
+      "name": "Coppermind",
       "api": "https://coppermind.net/w/api.php",
       "url": "https://coppermind.net/wiki/"
+    },
+    {
+      "name": "mistborn.wikia.com",
+      "api": "http://mistborn.wikia.com/api.php",
+      "url": "http://mistborn.wikia.com/wiki/"
     },
     {
       "name": "Wikipedia",
@@ -18,5 +23,5 @@
       "url": "https://en.wikipedia.org/wiki/"
     }
   ],
-  "id": "coppermind"
+  "id": "brandon-sanderson"
 }
