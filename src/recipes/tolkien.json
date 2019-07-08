@@ -1,16 +1,21 @@
 {
   "searches": [
     {
-      "context": "tolkiengateway",
+      "context": "lotr",
       "url": "https://www.google.com/search?q=",
       "name": "Google"
     }
   ],
   "wikis": [
     {
-      "name": "tolkiengateway.net",
+      "name": "Tolkien Gateway",
       "api": "http://tolkiengateway.net/w/api.php",
       "url": "http://tolkiengateway.net/wiki/"
+    },
+    {
+      "name": "LOTR Wikia",
+      "api": "http://lotr.wikia.com/api.php",
+      "url": "http://lotr.wikia.com/wiki/"
     },
     {
       "name": "Wikipedia",
@@ -18,5 +23,5 @@
       "url": "https://en.wikipedia.org/wiki/"
     }
   ],
-  "id": "tolkiengateway"
+  "id": "tolkien"
 }
