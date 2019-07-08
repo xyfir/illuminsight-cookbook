@@ -1,6 +1,6 @@
 const { writeFileSync, readFileSync } = require('fs');
 
-const list = JSON.parse(readFileSync('src/recipes.json', 'utf8'));
+const list = JSON.parse(readFileSync('src/recipes/.index.json', 'utf8'));
 
 for (let item of list) {
   // Read recipe
@@ -13,4 +13,4 @@ for (let item of list) {
 }
 
 // Update recipe index
-writeFileSync('src/recipes.json', JSON.stringify(list, null, 2));
+writeFileSync('src/recipes/.index.json', JSON.stringify(list, null, 2));
