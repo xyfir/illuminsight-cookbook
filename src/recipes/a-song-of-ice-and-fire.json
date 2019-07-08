@@ -13,6 +13,16 @@
       "url": "https://awoiaf.westeros.org/wiki/"
     },
     {
+      "name": "gameofthrones.wikia.com",
+      "api": "http://gameofthrones.wikia.com/api.php",
+      "url": "http://gameofthrones.wikia.com/wiki/"
+    },
+    {
+      "name": "iceandfire.wikia.com",
+      "api": "http://iceandfire.wikia.com/api.php",
+      "url": "http://iceandfire.wikia.com/wiki/"
+    },
+    {
       "name": "Wikipedia",
       "api": "https://en.wikipedia.org/w/api.php",
       "url": "https://en.wikipedia.org/wiki/"
