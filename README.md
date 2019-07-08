@@ -6,20 +6,35 @@ This repository contains recipes that assist illuminsight's insight generation p
 
 If you'd like to add a new recipe or improve an existing one:
 
-1. Add or edit a JSON file in `recipes/`.
-2. Update `recipes.json` if needed.
-3. Run `npm run build`.
-4. Submit your pull request.
+1. Add or edit a JSON file in `src/recipes/`.
+2. Update `src/recipes/.index.json` if needed.
+3. Submit your pull request.
 
-You can of course also write and use recipes outside of the cookbook, but putting your recipes here gives it first-class support within the illuminsight app, in addition to allowing others to easily improve upon it.
+Do _not_ modify anything in `dist/`. Run `npm run build` for testing but do not commit any changes in `dist/`.
 
 ### JSON Structures
 
-#### `recipes/<id>.json`
+#### `src/recipes/<id>.json` and `dist/recipes/<id>.min.json`
 
-See the [`Recipe`](https://github.com/xyfir/illuminsight/blob/master/types/illuminsight.d.ts) interface.
+```ts
+interface Recipe {
+  // In descending order of priority
+  searches: {
+    context?: string;
+    name: string;
+    url: string;
+  }[];
+  // In descending order of priority
+  wikis: {
+    name: string;
+    url: string;
+    api: string;
+  }[];
+  id: string;
+}
+```
 
-#### `recipes.json`
+#### `src/recipes/.index.json`
 
 ```ts
 Array<{
@@ -62,11 +77,11 @@ Regarding `id` and its corresponding recipe file name:
 - Avoid acronyms as they're likely to lead to confusion and future conflicts.
 - An id should _rarely_, if _ever_ change! Choose wisely.
 
-There can be multiple entries in `recipes.json` that point to the same recipe.
+There can be multiple entries in `src/recipes/.index.json` that point to the same recipe.
 
 The `books`, `series`, and `authors` properties are used for matching searches to a recipe. Each should be a single string containing as many possible _popular_ variations of matching book titles, series, or authors.
 
-#### `recipes.min.json`
+#### `dist/recipes/.index.min.json`
 
 You shouldn't ever edit this file directly, but in case you need to read data from it:
 
