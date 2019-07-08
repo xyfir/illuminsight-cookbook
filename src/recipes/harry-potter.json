@@ -1,16 +1,16 @@
 {
   "searches": [
     {
-      "context": "lunarchronicles",
+      "context": "potter",
       "url": "https://www.google.com/search?q=",
       "name": "Google"
     }
   ],
   "wikis": [
     {
-      "name": "lunarchronicles.wikia.com",
-      "api": "http://lunarchronicles.wikia.com/api.php",
-      "url": "http://lunarchronicles.wikia.com/wiki/"
+      "name": "harrypotter.wikia.com",
+      "api": "http://harrypotter.wikia.com/api.php",
+      "url": "http://harrypotter.wikia.com/wiki/"
     },
     {
       "name": "Wikipedia",
@@ -18,5 +18,5 @@
       "url": "https://en.wikipedia.org/wiki/"
     }
   ],
-  "id": "lunarchronicles"
+  "id": "harry-potter"
 }

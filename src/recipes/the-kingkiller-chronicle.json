@@ -1,16 +1,16 @@
 {
   "searches": [
     {
-      "context": "kushiel",
+      "context": "kingkiller",
       "url": "https://www.google.com/search?q=",
       "name": "Google"
     }
   ],
   "wikis": [
     {
-      "name": "kushiel.wikia.com",
-      "api": "http://kushiel.wikia.com/api.php",
-      "url": "http://kushiel.wikia.com/wiki/"
+      "name": "kingkiller.wikia.com",
+      "api": "http://kingkiller.wikia.com/api.php",
+      "url": "http://kingkiller.wikia.com/wiki/"
     },
     {
       "name": "Wikipedia",
@@ -18,5 +18,5 @@
       "url": "https://en.wikipedia.org/wiki/"
     }
   ],
-  "id": "kushiel"
+  "id": "the-kingkiller-chronicle"
 }

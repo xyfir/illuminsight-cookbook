@@ -41,7 +41,9 @@
     "series": "Cloud Atlas"
   },
   {
-    "id": "coppermind"
+    "id": "brandon-sanderson",
+    "series": "Mistborn",
+    "authors": "Brandon Sanderson"
   },
   {
     "id": "dan-brown",
@@ -66,6 +68,7 @@
   },
   {
     "id": "discworld",
+    "series": "Discworld",
     "authors": "Terry Pratchett"
   },
   {
@@ -73,86 +76,95 @@
     "series": "Divergent"
   },
   {
-    "id": "dune"
+    "id": "dune",
+    "series": "Dune"
   },
   {
-    "id": "emberverse"
+    "id": "emberverse",
+    "series": "The Emberverse The Change World"
   },
   {
-    "id": "enderverse"
+    "id": "enderverse",
+    "series": "Ender's Game Enderverse"
   },
   {
-    "id": "ericflint"
+    "id": "eric-flint",
+    "authors": "Eric Flint"
   },
   {
-    "id": "expanse"
+    "id": "the-expanse",
+    "series": "The Expanse"
   },
   {
-    "id": "fablehaven"
+    "id": "fablehaven",
+    "series": "Fablehaven"
   },
   {
-    "id": "firstlaw"
+    "id": "the-first-law",
+    "series": "The First Law",
+    "authors": "Joe Abercrombie"
   },
   {
-    "id": "flanagan"
+    "id": "john-flanagan",
+    "authors": "John Flanagan"
   },
   {
-    "id": "gabrielallon"
+    "id": "gabriel-allon",
+    "series": "Gabriel Allon"
   },
   {
-    "id": "gailcarriger"
-  },
-  {
-    "id": "gameofthrones"
+    "id": "gail-carriger",
+    "authors": "Gail Carriger"
   },
   {
     "id": "gentleman-bastard",
     "series": "The Gentleman Bastard Sequence"
   },
   {
-    "id": "harrypotter"
+    "id": "harry-potter",
+    "series": "Harry Potter"
   },
   {
-    "id": "hdm"
+    "id": "his-dark-materials",
+    "series": "His Dark Materials"
   },
   {
-    "id": "hitchhikers"
+    "id": "the-hitchhikers-guide-to-the-galaxy",
+    "series": "The Hitchhiker's Guide to the Galaxy"
   },
   {
-    "id": "honorverse"
+    "id": "honorverse",
+    "series": "Honorverse Honor Harrington"
   },
   {
-    "id": "iceandfire"
+    "id": "the-inheritance-cycle",
+    "series": "The Inheritance Cycle"
   },
   {
-    "id": "inheritance"
+    "id": "jack-ryan",
+    "series": "Tom Clancy's Jack Ryan"
   },
   {
-    "id": "jackryan"
+    "id": "john-wayne-cleaver",
+    "series": "John Wayne Cleaver"
   },
   {
-    "id": "john-wayne-cleaver"
+    "id": "the-kingkiller-chronicle",
+    "series": "The Kingkiller Chronicle"
   },
   {
-    "id": "kingkiller"
+    "id": "kushiel",
+    "series": "Kushiel's Legacy"
   },
   {
-    "id": "kushiel"
-  },
-  {
-    "id": "lotr"
-  },
-  {
-    "id": "lunarchronicles"
+    "id": "the-lunar-chronicles",
+    "series": "The Lunar Chronicles"
   },
   {
     "id": "malazan"
   },
   {
     "id": "milleniumtrilogy"
-  },
-  {
-    "id": "mistborn"
   },
   {
     "id": "monsterblood"
@@ -279,7 +291,10 @@
     "id": "throneofglass"
   },
   {
-    "id": "tolkiengateway"
+    "id": "tolkien",
+    "books": "The Lord of the Rings The Hobbit The Silmarillion",
+    "series": "The Lord of the Rings LOTR",
+    "authors": " J. R. R. Tolkien J.R.R. Tolkien JRR Tolkien Christopher Tolkien"
   },
   {
     "id": "trudi-canavan",

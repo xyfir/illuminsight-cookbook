@@ -1,16 +1,16 @@
 {
   "searches": [
     {
-      "context": "harrypotter",
+      "context": "jack ryan",
       "url": "https://www.google.com/search?q=",
       "name": "Google"
     }
   ],
   "wikis": [
     {
-      "name": "harrypotter.wikia.com",
-      "api": "http://harrypotter.wikia.com/api.php",
-      "url": "http://harrypotter.wikia.com/wiki/"
+      "name": "jackryan.wikia.com",
+      "api": "http://jackryan.wikia.com/api.php",
+      "url": "http://jackryan.wikia.com/wiki/"
     },
     {
       "name": "Wikipedia",
@@ -18,5 +18,5 @@
       "url": "https://en.wikipedia.org/wiki/"
     }
   ],
-  "id": "harrypotter"
+  "id": "jack-ryan"
 }

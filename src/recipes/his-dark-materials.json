@@ -1,16 +1,16 @@
 {
   "searches": [
     {
-      "context": "gailcarriger",
+      "context": "his dark materials",
       "url": "https://www.google.com/search?q=",
       "name": "Google"
     }
   ],
   "wikis": [
     {
-      "name": "gailcarriger.wikia.com",
-      "api": "http://gailcarriger.wikia.com/api.php",
-      "url": "http://gailcarriger.wikia.com/wiki/"
+      "name": "hdm.wikia.com",
+      "api": "http://hdm.wikia.com/api.php",
+      "url": "http://hdm.wikia.com/wiki/"
     },
     {
       "name": "Wikipedia",
@@ -18,5 +18,5 @@
       "url": "https://en.wikipedia.org/wiki/"
     }
   ],
-  "id": "gailcarriger"
+  "id": "his-dark-materials"
 }

@@ -1,16 +1,16 @@
 {
   "searches": [
     {
-      "context": "gabrielallon",
+      "context": "inheritance cycle",
       "url": "https://www.google.com/search?q=",
       "name": "Google"
     }
   ],
   "wikis": [
     {
-      "name": "gabrielallon.wikia.com",
-      "api": "http://gabrielallon.wikia.com/api.php",
-      "url": "http://gabrielallon.wikia.com/wiki/"
+      "name": "inheritance.wikia.com",
+      "api": "http://inheritance.wikia.com/api.php",
+      "url": "http://inheritance.wikia.com/wiki/"
     },
     {
       "name": "Wikipedia",
@@ -18,5 +18,5 @@
       "url": "https://en.wikipedia.org/wiki/"
     }
   ],
-  "id": "gabrielallon"
+  "id": "the-inheritance-cycle"
 }

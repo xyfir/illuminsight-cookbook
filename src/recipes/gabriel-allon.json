@@ -1,16 +1,16 @@
 {
   "searches": [
     {
-      "context": "expanse",
+      "context": "gabriel allon",
       "url": "https://www.google.com/search?q=",
       "name": "Google"
     }
   ],
   "wikis": [
     {
-      "name": "expanse.wikia.com",
-      "api": "http://expanse.wikia.com/api.php",
-      "url": "http://expanse.wikia.com/wiki/"
+      "name": "gabrielallon.wikia.com",
+      "api": "http://gabrielallon.wikia.com/api.php",
+      "url": "http://gabrielallon.wikia.com/wiki/"
     },
     {
       "name": "Wikipedia",
@@ -18,5 +18,5 @@
       "url": "https://en.wikipedia.org/wiki/"
     }
   ],
-  "id": "expanse"
+  "id": "gabriel-allon"
 }

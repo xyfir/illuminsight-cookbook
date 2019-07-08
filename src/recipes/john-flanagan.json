@@ -1,16 +1,16 @@
 {
   "searches": [
     {
-      "context": "inheritance",
+      "context": "flanagan",
       "url": "https://www.google.com/search?q=",
       "name": "Google"
     }
   ],
   "wikis": [
     {
-      "name": "inheritance.wikia.com",
-      "api": "http://inheritance.wikia.com/api.php",
-      "url": "http://inheritance.wikia.com/wiki/"
+      "name": "flanagan.wikia.com",
+      "api": "http://flanagan.wikia.com/api.php",
+      "url": "http://flanagan.wikia.com/wiki/"
     },
     {
       "name": "Wikipedia",
@@ -18,5 +18,5 @@
       "url": "https://en.wikipedia.org/wiki/"
     }
   ],
-  "id": "inheritance"
+  "id": "john-flanagan"
 }

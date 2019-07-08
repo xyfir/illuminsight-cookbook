@@ -1,16 +1,16 @@
 {
   "searches": [
     {
-      "context": "jackryan",
+      "context": "hitchhikers guide",
       "url": "https://www.google.com/search?q=",
       "name": "Google"
     }
   ],
   "wikis": [
     {
-      "name": "jackryan.wikia.com",
-      "api": "http://jackryan.wikia.com/api.php",
-      "url": "http://jackryan.wikia.com/wiki/"
+      "name": "hitchhikers.wikia.com",
+      "api": "http://hitchhikers.wikia.com/api.php",
+      "url": "http://hitchhikers.wikia.com/wiki/"
     },
     {
       "name": "Wikipedia",
@@ -18,5 +18,5 @@
       "url": "https://en.wikipedia.org/wiki/"
     }
   ],
-  "id": "jackryan"
+  "id": "the-hitchhikers-guide-to-the-galaxy"
 }
