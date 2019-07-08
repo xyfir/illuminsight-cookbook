@@ -1,21 +1,35 @@
 const { writeFileSync, readFileSync } = require('fs');
 
-let recipes = JSON.parse(readFileSync('src/recipes.json', 'utf8'));
+let list = JSON.parse(readFileSync('src/recipes.json', 'utf8'));
 
 // Sort A-Z by id
-recipes = recipes.sort((a, b) => {
+list = list.sort((a, b) => {
   if (a.id < b.id) return -1;
   if (a.id > b.id) return 1;
   return 0;
 });
 
-// Minify
-const min = recipes.map(recipe => ({
-  a: recipe.authors,
-  s: recipe.series,
-  b: recipe.books,
-  i: recipe.id
+// Minify list
+const minList = list.map(item => ({
+  a: item.authors,
+  s: item.series,
+  b: item.books,
+  i: item.id
 }));
 
-writeFileSync('src/recipes.json', JSON.stringify(recipes, null, 2));
-writeFileSync('dist/recipes.min.json', JSON.stringify(min));
+// Update lists
+writeFileSync('src/recipes.json', JSON.stringify(list, null, 2));
+writeFileSync('dist/recipes.min.json', JSON.stringify(minList));
+
+for (let item of list) {
+  const recipe = JSON.parse(
+    readFileSync(`src/recipes/${item.id}.json`, 'utf8')
+  );
+
+  // Ensure recipe.id matches id from list
+  recipe.id = item.id;
+  writeFileSync(`src/recipes/${item.id}.json`, JSON.stringify(recipe, null, 2));
+
+  // Minify recipes
+  writeFileSync(`dist/recipes/${item.id}.min.json`, JSON.stringify(recipe));
+}
