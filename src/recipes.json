@@ -29,6 +29,11 @@
     "series": "Beyonders"
   },
   {
+    "id": "brandon-sanderson",
+    "series": "Mistborn",
+    "authors": "Brandon Sanderson"
+  },
+  {
     "id": "cassandra-palmer",
     "series": "Cassandra Palmer"
   },
@@ -39,11 +44,6 @@
   {
     "id": "cloud-atlas",
     "series": "Cloud Atlas"
-  },
-  {
-    "id": "brandon-sanderson",
-    "series": "Mistborn",
-    "authors": "Brandon Sanderson"
   },
   {
     "id": "dan-brown",
@@ -92,21 +92,8 @@
     "authors": "Eric Flint"
   },
   {
-    "id": "the-expanse",
-    "series": "The Expanse"
-  },
-  {
     "id": "fablehaven",
     "series": "Fablehaven"
-  },
-  {
-    "id": "the-first-law",
-    "series": "The First Law",
-    "authors": "Joe Abercrombie"
-  },
-  {
-    "id": "john-flanagan",
-    "authors": "John Flanagan"
   },
   {
     "id": "gabriel-allon",
@@ -129,36 +116,24 @@
     "series": "His Dark Materials"
   },
   {
-    "id": "the-hitchhikers-guide-to-the-galaxy",
-    "series": "The Hitchhiker's Guide to the Galaxy"
-  },
-  {
     "id": "honorverse",
     "series": "Honorverse Honor Harrington"
-  },
-  {
-    "id": "the-inheritance-cycle",
-    "series": "The Inheritance Cycle"
   },
   {
     "id": "jack-ryan",
     "series": "Tom Clancy's Jack Ryan"
   },
   {
+    "id": "john-flanagan",
+    "authors": "John Flanagan"
+  },
+  {
     "id": "john-wayne-cleaver",
     "series": "John Wayne Cleaver"
   },
   {
-    "id": "the-kingkiller-chronicle",
-    "series": "The Kingkiller Chronicle"
-  },
-  {
-    "id": "kushiel",
+    "id": "kushiels-legacy",
     "series": "Kushiel's Legacy"
-  },
-  {
-    "id": "the-lunar-chronicles",
-    "series": "The Lunar Chronicles"
   },
   {
     "id": "malazan"
@@ -258,7 +233,32 @@
     "authors": "Jim Butcher"
   },
   {
+    "id": "the-expanse",
+    "series": "The Expanse"
+  },
+  {
+    "id": "the-first-law",
+    "series": "The First Law",
+    "authors": "Joe Abercrombie"
+  },
+  {
     "id": "the-guild-hunter-series"
+  },
+  {
+    "id": "the-hitchhikers-guide-to-the-galaxy",
+    "series": "The Hitchhiker's Guide to the Galaxy"
+  },
+  {
+    "id": "the-inheritance-cycle",
+    "series": "The Inheritance Cycle"
+  },
+  {
+    "id": "the-kingkiller-chronicle",
+    "series": "The Kingkiller Chronicle"
+  },
+  {
+    "id": "the-lunar-chronicles",
+    "series": "The Lunar Chronicles"
   },
   {
     "id": "thecasterchronicles"
