@@ -1,5 +1,9 @@
-const { writeFileSync, readFileSync } = require('fs');
+const { writeFileSync, readFileSync, emptyDirSync } = require('fs-extra');
 
+// Clear out dist/recipes in case something was deleted or renamed
+emptyDirSync('dist/recipes');
+
+// Read recipe index list
 let list = JSON.parse(readFileSync('src/recipes/.index.json', 'utf8'));
 
 // Sort A-Z by id
