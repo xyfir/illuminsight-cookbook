@@ -8,7 +8,7 @@
   ],
   "wikis": [
     {
-      "name": "jackryan.wikia.com",
+      "name": "Wikia",
       "api": "http://jackryan.wikia.com/api.php",
       "url": "http://jackryan.wikia.com/wiki/"
     },

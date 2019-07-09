@@ -8,7 +8,7 @@
   ],
   "wikis": [
     {
-      "name": "wot.wikia.com",
+      "name": "Wikia",
       "api": "http://wot.wikia.com/api.php",
       "url": "http://wot.wikia.com/wiki/"
     },

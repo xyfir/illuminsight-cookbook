@@ -8,7 +8,7 @@
   ],
   "wikis": [
     {
-      "name": "fablehaven.wikia.com",
+      "name": "Wikia",
       "api": "http://fablehaven.wikia.com/api.php",
       "url": "http://fablehaven.wikia.com/wiki/"
     },

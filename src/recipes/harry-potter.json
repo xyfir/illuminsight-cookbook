@@ -8,7 +8,7 @@
   ],
   "wikis": [
     {
-      "name": "harrypotter.wikia.com",
+      "name": "Wikia",
       "api": "http://harrypotter.wikia.com/api.php",
       "url": "http://harrypotter.wikia.com/wiki/"
     },

@@ -8,7 +8,7 @@
   ],
   "wikis": [
     {
-      "name": "dune.wikia.com",
+      "name": "Wikia",
       "api": "http://dune.wikia.com/api.php",
       "url": "http://dune.wikia.com/wiki/"
     },

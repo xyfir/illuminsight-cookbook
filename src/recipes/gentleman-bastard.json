@@ -8,7 +8,7 @@
   ],
   "wikis": [
     {
-      "name": "camorr.wikia.com",
+      "name": "Wikia",
       "api": "http://camorr.wikia.com/api.php",
       "url": "http://camorr.wikia.com/wiki/"
     },

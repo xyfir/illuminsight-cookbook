@@ -8,7 +8,7 @@
   ],
   "wikis": [
     {
-      "name": "honorverse.wikia.com",
+      "name": "Wikia",
       "api": "http://honorverse.wikia.com/api.php",
       "url": "http://honorverse.wikia.com/wiki/"
     },

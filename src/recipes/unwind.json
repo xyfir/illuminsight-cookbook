@@ -8,7 +8,7 @@
   ],
   "wikis": [
     {
-      "name": "unwind.wikia.com",
+      "name": "Wikia",
       "api": "http://unwind.wikia.com/api.php",
       "url": "http://unwind.wikia.com/wiki/"
     },

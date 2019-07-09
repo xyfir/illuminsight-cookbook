@@ -8,7 +8,7 @@
   ],
   "wikis": [
     {
-      "name": "readyplayerone.wikia.com",
+      "name": "Wikia",
       "api": "http://readyplayerone.wikia.com/api.php",
       "url": "http://readyplayerone.wikia.com/wiki/"
     },

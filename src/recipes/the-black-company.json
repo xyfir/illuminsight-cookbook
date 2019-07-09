@@ -8,7 +8,7 @@
   ],
   "wikis": [
     {
-      "name": "blackcompany.wikia.com",
+      "name": "Wikia",
       "api": "http://blackcompany.wikia.com/api.php",
       "url": "http://blackcompany.wikia.com/wiki/"
     },

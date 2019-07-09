@@ -8,7 +8,7 @@
   ],
   "wikis": [
     {
-      "name": "sharpe.wikia.com",
+      "name": "Wikia",
       "api": "http://sharpe.wikia.com/api.php",
       "url": "http://sharpe.wikia.com/wiki/"
     },

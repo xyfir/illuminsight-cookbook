@@ -8,7 +8,7 @@
   ],
   "wikis": [
     {
-      "name": "stephenking.wikia.com",
+      "name": "Wikia",
       "api": "http://stephenking.wikia.com/api.php",
       "url": "http://stephenking.wikia.com/wiki/"
     },

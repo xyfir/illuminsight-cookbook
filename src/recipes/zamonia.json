@@ -8,7 +8,7 @@
   ],
   "wikis": [
     {
-      "name": "zamonia.wikia.com",
+      "name": "Wikia",
       "api": "http://zamonia.wikia.com/api.php",
       "url": "http://zamonia.wikia.com/wiki/"
     },

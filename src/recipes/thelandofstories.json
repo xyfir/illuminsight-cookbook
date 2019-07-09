@@ -8,7 +8,7 @@
   ],
   "wikis": [
     {
-      "name": "thelandofstories.wikia.com",
+      "name": "Wikia",
       "api": "http://thelandofstories.wikia.com/api.php",
       "url": "http://thelandofstories.wikia.com/wiki/"
     },

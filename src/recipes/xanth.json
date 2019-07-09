@@ -8,7 +8,7 @@
   ],
   "wikis": [
     {
-      "name": "xanth.wikia.com",
+      "name": "Wikia",
       "api": "http://xanth.wikia.com/api.php",
       "url": "http://xanth.wikia.com/wiki/"
     },

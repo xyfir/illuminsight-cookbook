@@ -8,7 +8,7 @@
   ],
   "wikis": [
     {
-      "name": "twilightsaga.wikia.com",
+      "name": "Wikia",
       "api": "http://twilightsaga.wikia.com/api.php",
       "url": "http://twilightsaga.wikia.com/wiki/"
     },

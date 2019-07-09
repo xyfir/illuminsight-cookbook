@@ -8,7 +8,7 @@
   ],
   "wikis": [
     {
-      "name": "pendragon.wikia.com",
+      "name": "Wikia",
       "api": "http://pendragon.wikia.com/api.php",
       "url": "http://pendragon.wikia.com/wiki/"
     },

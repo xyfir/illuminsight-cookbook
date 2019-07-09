@@ -8,7 +8,7 @@
   ],
   "wikis": [
     {
-      "name": "thegrishaverse.wikia.com",
+      "name": "Wikia",
       "api": "http://thegrishaverse.wikia.com/api.php",
       "url": "http://thegrishaverse.wikia.com/wiki/"
     },

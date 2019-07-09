@@ -8,7 +8,7 @@
   ],
   "wikis": [
     {
-      "name": "firstlaw.wikia.com",
+      "name": "Wikia",
       "api": "http://firstlaw.wikia.com/api.php",
       "url": "http://firstlaw.wikia.com/wiki/"
     },

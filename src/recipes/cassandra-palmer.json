@@ -8,7 +8,7 @@
   ],
   "wikis": [
     {
-      "name": "cassandra-palmer-world.wikia.com",
+      "name": "Wikia",
       "api": "http://cassandra-palmer-world.wikia.com/api.php",
       "url": "http://cassandra-palmer-world.wikia.com/wiki/"
     },

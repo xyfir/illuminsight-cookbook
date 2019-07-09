@@ -8,7 +8,7 @@
   ],
   "wikis": [
     {
-      "name": "cirquedufreak.wikia.com",
+      "name": "Wikia",
       "api": "http://cirquedufreak.wikia.com/api.php",
       "url": "http://cirquedufreak.wikia.com/wiki/"
     },

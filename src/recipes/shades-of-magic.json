@@ -8,7 +8,7 @@
   ],
   "wikis": [
     {
-      "name": "shadesofmagic.wikia.com",
+      "name": "Wikia",
       "api": "http://shadesofmagic.wikia.com/api.php",
       "url": "http://shadesofmagic.wikia.com/wiki/"
     },

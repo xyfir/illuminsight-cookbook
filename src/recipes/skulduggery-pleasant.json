@@ -8,7 +8,7 @@
   ],
   "wikis": [
     {
-      "name": "skulduggery.wikia.com",
+      "name": "Wikia",
       "api": "http://skulduggery.wikia.com/api.php",
       "url": "http://skulduggery.wikia.com/wiki/"
     },

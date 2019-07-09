@@ -8,7 +8,7 @@
   ],
   "wikis": [
     {
-      "name": "expanse.wikia.com",
+      "name": "Wikia",
       "api": "http://expanse.wikia.com/api.php",
       "url": "http://expanse.wikia.com/wiki/"
     },

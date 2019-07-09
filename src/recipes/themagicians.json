@@ -8,7 +8,7 @@
   ],
   "wikis": [
     {
-      "name": "themagicians.wikia.com",
+      "name": "Wikia",
       "api": "http://themagicians.wikia.com/api.php",
       "url": "http://themagicians.wikia.com/wiki/"
     },

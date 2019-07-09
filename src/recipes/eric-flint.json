@@ -8,7 +8,7 @@
   ],
   "wikis": [
     {
-      "name": "ericflint.wikia.com",
+      "name": "Wikia",
       "api": "http://ericflint.wikia.com/api.php",
       "url": "http://ericflint.wikia.com/wiki/"
     },
