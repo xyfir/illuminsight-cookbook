@@ -76,6 +76,10 @@
     "series": "Divergent"
   },
   {
+    "id": "dragonriders-of-pern",
+    "series": "Dragonriders of Pern"
+  },
+  {
     "id": "dune",
     "series": "Dune"
   },
@@ -148,10 +152,6 @@
     "series": "Monster Blood Tattoo "
   },
   {
-    "id": "the-nevernight-chronicle",
-    "series": "The Nevernight Chronicle"
-  },
-  {
     "id": "night-world",
     "series": "Night World"
   },
@@ -166,10 +166,6 @@
   {
     "id": "pendragon",
     "series": "Pendragon: Journal of an Adventure through Time and Space"
-  },
-  {
-    "id": "dragonriders-of-pern",
-    "series": "Dragonriders of Pern"
   },
   {
     "id": "prince-of-nothing",
@@ -192,8 +188,8 @@
     "authors": "Rick Riordan"
   },
   {
-    "id": "the-secrets-of-the-immortal-nicholas-flamel",
-    "series": "The Secrets of the Immortal Nicholas Flamel"
+    "id": "rl-stine",
+    "authors": "R. L. Stine RL Stine R.L. Stine"
   },
   {
     "id": "shades-of-magic",
@@ -212,28 +208,12 @@
     "series": "Sharpe"
   },
   {
-    "id": "skulduggery",
+    "id": "skulduggery-pleasant",
     "series": "Skulduggery Pleasant"
-  },
-  {
-    "id": "the-southern-vampire-mysteries",
-    "series": "The Southern Vampire Mysteries The True Blood Novels The Sookie Stackhouse Novels"
-  },
-  {
-    "id": "the-sword-of-truth",
-    "series": "The Sword of Truth"
-  },
-  {
-    "id": "the-spiderwick-chronicles",
-    "series": "The Spiderwick Chronicles"
   },
   {
     "id": "stephen-king",
     "authors": "Stephen King Richard Bachman"
-  },
-  {
-    "id": "rl-stine",
-    "authors": "R. L. Stine RL Stine R.L. Stine"
   },
   {
     "id": "stravaganza",
@@ -283,6 +263,26 @@
   {
     "id": "the-lunar-chronicles",
     "series": "The Lunar Chronicles"
+  },
+  {
+    "id": "the-nevernight-chronicle",
+    "series": "The Nevernight Chronicle"
+  },
+  {
+    "id": "the-secrets-of-the-immortal-nicholas-flamel",
+    "series": "The Secrets of the Immortal Nicholas Flamel"
+  },
+  {
+    "id": "the-southern-vampire-mysteries",
+    "series": "The Southern Vampire Mysteries The True Blood Novels The Sookie Stackhouse Novels"
+  },
+  {
+    "id": "the-spiderwick-chronicles",
+    "series": "The Spiderwick Chronicles"
+  },
+  {
+    "id": "the-sword-of-truth",
+    "series": "The Sword of Truth"
   },
   {
     "id": "thecasterchronicles"
