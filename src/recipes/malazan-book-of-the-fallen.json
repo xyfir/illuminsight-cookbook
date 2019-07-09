@@ -1,16 +1,16 @@
 {
   "searches": [
     {
-      "context": "secretsnicholasflamel",
+      "context": "malazan",
       "url": "https://www.google.com/search?q=",
       "name": "Google"
     }
   ],
   "wikis": [
     {
-      "name": "secretsnicholasflamel.wikia.com",
-      "api": "http://secretsnicholasflamel.wikia.com/api.php",
-      "url": "http://secretsnicholasflamel.wikia.com/wiki/"
+      "name": "Wikia",
+      "api": "http://malazan.wikia.com/api.php",
+      "url": "http://malazan.wikia.com/wiki/"
     },
     {
       "name": "Wikipedia",
@@ -18,5 +18,5 @@
       "url": "https://en.wikipedia.org/wiki/"
     }
   ],
-  "id": "secretsnicholasflamel"
+  "id": "malazan-book-of-the-fallen"
 }

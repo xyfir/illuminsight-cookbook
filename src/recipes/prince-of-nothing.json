@@ -1,16 +1,16 @@
 {
   "searches": [
     {
-      "context": "sookiestackhouse",
+      "context": "prince of nothing",
       "url": "https://www.google.com/search?q=",
       "name": "Google"
     }
   ],
   "wikis": [
     {
-      "name": "sookiestackhouse.wikia.com",
-      "api": "http://sookiestackhouse.wikia.com/api.php",
-      "url": "http://sookiestackhouse.wikia.com/wiki/"
+      "name": "princeofnothing.wikia.com",
+      "api": "http://princeofnothing.wikia.com/api.php",
+      "url": "http://princeofnothing.wikia.com/wiki/"
     },
     {
       "name": "Wikipedia",
@@ -18,5 +18,5 @@
       "url": "https://en.wikipedia.org/wiki/"
     }
   ],
-  "id": "sookiestackhouse"
+  "id": "prince-of-nothing"
 }

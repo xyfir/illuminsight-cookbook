@@ -1,16 +1,16 @@
 {
   "searches": [
     {
-      "context": "riordan",
+      "context": "nevernight",
       "url": "https://www.google.com/search?q=",
       "name": "Google"
     }
   ],
   "wikis": [
     {
-      "name": "riordan.wikia.com",
-      "api": "http://riordan.wikia.com/api.php",
-      "url": "http://riordan.wikia.com/wiki/"
+      "name": "Wikia",
+      "api": "http://nevernight.wikia.com/api.php",
+      "url": "http://nevernight.wikia.com/wiki/"
     },
     {
       "name": "Wikipedia",
@@ -18,5 +18,5 @@
       "url": "https://en.wikipedia.org/wiki/"
     }
   ],
-  "id": "riordan"
+  "id": "the-nevernight-chronicle"
 }

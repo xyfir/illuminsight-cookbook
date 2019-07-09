@@ -8,7 +8,7 @@
   ],
   "wikis": [
     {
-      "name": "outlander.wikia.com",
+      "name": "Wikia",
       "api": "http://outlander.wikia.com/api.php",
       "url": "http://outlander.wikia.com/wiki/"
     },

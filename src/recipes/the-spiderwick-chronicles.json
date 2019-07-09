@@ -1,16 +1,16 @@
 {
   "searches": [
     {
-      "context": "shadesofmagic",
+      "context": "spiderwick",
       "url": "https://www.google.com/search?q=",
       "name": "Google"
     }
   ],
   "wikis": [
     {
-      "name": "shadesofmagic.wikia.com",
-      "api": "http://shadesofmagic.wikia.com/api.php",
-      "url": "http://shadesofmagic.wikia.com/wiki/"
+      "name": "spiderwick.wikia.com",
+      "api": "http://spiderwick.wikia.com/api.php",
+      "url": "http://spiderwick.wikia.com/wiki/"
     },
     {
       "name": "Wikipedia",
@@ -18,5 +18,5 @@
       "url": "https://en.wikipedia.org/wiki/"
     }
   ],
-  "id": "shadesofmagic"
+  "id": "the-spiderwick-chronicles"
 }

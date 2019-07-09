@@ -1,16 +1,16 @@
 {
   "searches": [
     {
-      "context": "malazan",
+      "context": "night world",
       "url": "https://www.google.com/search?q=",
       "name": "Google"
     }
   ],
   "wikis": [
     {
-      "name": "malazan.wikia.com",
-      "api": "http://malazan.wikia.com/api.php",
-      "url": "http://malazan.wikia.com/wiki/"
+      "name": "Wikia",
+      "api": "http://nightworld.wikia.com/api.php",
+      "url": "http://nightworld.wikia.com/wiki/"
     },
     {
       "name": "Wikipedia",
@@ -18,5 +18,5 @@
       "url": "https://en.wikipedia.org/wiki/"
     }
   ],
-  "id": "malazan"
+  "id": "night-world"
 }

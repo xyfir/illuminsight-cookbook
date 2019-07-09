@@ -1,16 +1,16 @@
 {
   "searches": [
     {
-      "context": "stine",
+      "context": "sword of truth",
       "url": "https://www.google.com/search?q=",
       "name": "Google"
     }
   ],
   "wikis": [
     {
-      "name": "stine.wikia.com",
-      "api": "http://stine.wikia.com/api.php",
-      "url": "http://stine.wikia.com/wiki/"
+      "name": "sot.wikia.com",
+      "api": "http://sot.wikia.com/api.php",
+      "url": "http://sot.wikia.com/wiki/"
     },
     {
       "name": "Wikipedia",
@@ -18,5 +18,5 @@
       "url": "https://en.wikipedia.org/wiki/"
     }
   ],
-  "id": "stine"
+  "id": "the-sword-of-truth"
 }

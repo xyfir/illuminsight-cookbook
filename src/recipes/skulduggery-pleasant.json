@@ -1,16 +1,16 @@
 {
   "searches": [
     {
-      "context": "sot",
+      "context": "skulduggery",
       "url": "https://www.google.com/search?q=",
       "name": "Google"
     }
   ],
   "wikis": [
     {
-      "name": "sot.wikia.com",
-      "api": "http://sot.wikia.com/api.php",
-      "url": "http://sot.wikia.com/wiki/"
+      "name": "skulduggery.wikia.com",
+      "api": "http://skulduggery.wikia.com/api.php",
+      "url": "http://skulduggery.wikia.com/wiki/"
     },
     {
       "name": "Wikipedia",
@@ -18,5 +18,5 @@
       "url": "https://en.wikipedia.org/wiki/"
     }
   ],
-  "id": "sot"
+  "id": "skulduggery-pleasant"
 }

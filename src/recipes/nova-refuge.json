@@ -1,16 +1,16 @@
 {
   "searches": [
     {
-      "context": "monsterblood",
+      "context": "nova refuge",
       "url": "https://www.google.com/search?q=",
       "name": "Google"
     }
   ],
   "wikis": [
     {
-      "name": "monsterblood.wikia.com",
-      "api": "http://monsterblood.wikia.com/api.php",
-      "url": "http://monsterblood.wikia.com/wiki/"
+      "name": "Wikia",
+      "api": "http://novarefuge.wikia.com/api.php",
+      "url": "http://novarefuge.wikia.com/wiki/"
     },
     {
       "name": "Wikipedia",
@@ -18,5 +18,5 @@
       "url": "https://en.wikipedia.org/wiki/"
     }
   ],
-  "id": "monsterblood"
+  "id": "nova-refuge"
 }

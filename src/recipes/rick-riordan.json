@@ -1,16 +1,16 @@
 {
   "searches": [
     {
-      "context": "skulduggery",
+      "context": "riordan",
       "url": "https://www.google.com/search?q=",
       "name": "Google"
     }
   ],
   "wikis": [
     {
-      "name": "skulduggery.wikia.com",
-      "api": "http://skulduggery.wikia.com/api.php",
-      "url": "http://skulduggery.wikia.com/wiki/"
+      "name": "riordan.wikia.com",
+      "api": "http://riordan.wikia.com/api.php",
+      "url": "http://riordan.wikia.com/wiki/"
     },
     {
       "name": "Wikipedia",
@@ -18,5 +18,5 @@
       "url": "https://en.wikipedia.org/wiki/"
     }
   ],
-  "id": "skulduggery"
+  "id": "rick-riordan"
 }

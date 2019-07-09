@@ -13,7 +13,12 @@
       "url": "https://coppermind.net/wiki/"
     },
     {
-      "name": "mistborn.wikia.com",
+      "name": "(Stormlight Archive) Wikia",
+      "api": "http://stormlightarchive.wikia.com/api.php",
+      "url": "http://stormlightarchive.wikia.com/wiki/"
+    },
+    {
+      "name": "(Mistborn) Wikia",
       "api": "http://mistborn.wikia.com/api.php",
       "url": "http://mistborn.wikia.com/wiki/"
     },

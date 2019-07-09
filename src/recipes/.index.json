@@ -30,7 +30,7 @@
   },
   {
     "id": "brandon-sanderson",
-    "series": "Mistborn",
+    "series": "The Stormlight Archive Mistborn",
     "authors": "Brandon Sanderson"
   },
   {
@@ -136,88 +136,112 @@
     "series": "Kushiel's Legacy"
   },
   {
-    "id": "malazan"
+    "id": "malazan-book-of-the-fallen",
+    "series": "Malazan Book of the Fallen"
   },
   {
-    "id": "milleniumtrilogy"
+    "id": "millenium",
+    "series": "Millennium"
   },
   {
-    "id": "monsterblood"
+    "id": "monster-blood-tattoo",
+    "series": "Monster Blood Tattoo "
   },
   {
-    "id": "nevernight"
+    "id": "the-nevernight-chronicle",
+    "series": "The Nevernight Chronicle"
   },
   {
-    "id": "nightworld"
+    "id": "night-world",
+    "series": "Night World"
   },
   {
-    "id": "novarefuge"
+    "id": "nova-refuge",
+    "series": "Nova Refuge"
   },
   {
-    "id": "outlander"
+    "id": "outlander",
+    "series": "Outlander"
   },
   {
-    "id": "pendragon"
+    "id": "pendragon",
+    "series": "Pendragon: Journal of an Adventure through Time and Space"
   },
   {
-    "id": "pern"
+    "id": "dragonriders-of-pern",
+    "series": "Dragonriders of Pern"
   },
   {
-    "id": "princeofnothing"
+    "id": "prince-of-nothing",
+    "series": "Prince of Nothing"
   },
   {
-    "id": "readyplayerone"
+    "id": "ready-player-one",
+    "books": "Ready Player One"
   },
   {
-    "id": "red-rising"
+    "id": "red-rising",
+    "series": "Red Rising"
   },
   {
-    "id": "redwall"
+    "id": "redwall",
+    "series": "Redwall"
   },
   {
-    "id": "riordan"
+    "id": "rick-riordan",
+    "authors": "Rick Riordan"
   },
   {
-    "id": "secretsnicholasflamel"
+    "id": "the-secrets-of-the-immortal-nicholas-flamel",
+    "series": "The Secrets of the Immortal Nicholas Flamel"
   },
   {
-    "id": "shadesofmagic"
+    "id": "shades-of-magic",
+    "series": "Shades of Magic"
   },
   {
-    "id": "shadowhunters"
+    "id": "shadowhunters",
+    "series": "Shadowhunters"
   },
   {
-    "id": "shannara"
+    "id": "shannara",
+    "series": "Shannara"
   },
   {
-    "id": "sharpe"
+    "id": "sharpe",
+    "series": "Sharpe"
   },
   {
-    "id": "skulduggery"
+    "id": "skulduggery",
+    "series": "Skulduggery Pleasant"
   },
   {
-    "id": "sookiestackhouse"
+    "id": "the-southern-vampire-mysteries",
+    "series": "The Southern Vampire Mysteries The True Blood Novels The Sookie Stackhouse Novels"
   },
   {
-    "id": "sot"
+    "id": "the-sword-of-truth",
+    "series": "The Sword of Truth"
   },
   {
-    "id": "spiderwick"
+    "id": "the-spiderwick-chronicles",
+    "series": "The Spiderwick Chronicles"
   },
   {
-    "id": "stephenking"
+    "id": "stephen-king",
+    "authors": "Stephen King Richard Bachman"
   },
   {
-    "id": "stine"
+    "id": "rl-stine",
+    "authors": "R. L. Stine RL Stine R.L. Stine"
   },
   {
-    "id": "stormlightarchive"
+    "id": "stravaganza",
+    "series": "Stravaganza"
   },
   {
-    "id": "stravaganza"
-  },
-  {
-    "id": "tamorapierce"
+    "id": "tamora-pierce",
+    "authors": "Tamora Pierce"
   },
   {
     "id": "the-black-company",

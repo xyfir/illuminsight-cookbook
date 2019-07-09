@@ -1,16 +1,16 @@
 {
   "searches": [
     {
-      "context": "tamorapierce",
+      "context": "stephen king",
       "url": "https://www.google.com/search?q=",
       "name": "Google"
     }
   ],
   "wikis": [
     {
-      "name": "tamorapierce.wikia.com",
-      "api": "http://tamorapierce.wikia.com/api.php",
-      "url": "http://tamorapierce.wikia.com/wiki/"
+      "name": "stephenking.wikia.com",
+      "api": "http://stephenking.wikia.com/api.php",
+      "url": "http://stephenking.wikia.com/wiki/"
     },
     {
       "name": "Wikipedia",
@@ -18,5 +18,5 @@
       "url": "https://en.wikipedia.org/wiki/"
     }
   ],
-  "id": "tamorapierce"
+  "id": "stephen-king"
 }

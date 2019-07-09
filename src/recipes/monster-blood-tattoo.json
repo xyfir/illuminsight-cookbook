@@ -1,16 +1,16 @@
 {
   "searches": [
     {
-      "context": "stephenking",
+      "context": "Monster Blood Tattoo",
       "url": "https://www.google.com/search?q=",
       "name": "Google"
     }
   ],
   "wikis": [
     {
-      "name": "stephenking.wikia.com",
-      "api": "http://stephenking.wikia.com/api.php",
-      "url": "http://stephenking.wikia.com/wiki/"
+      "name": "Wikia",
+      "api": "http://monsterblood.wikia.com/api.php",
+      "url": "http://monsterblood.wikia.com/wiki/"
     },
     {
       "name": "Wikipedia",
@@ -18,5 +18,5 @@
       "url": "https://en.wikipedia.org/wiki/"
     }
   ],
-  "id": "stephenking"
+  "id": "monster-blood-tattoo"
 }

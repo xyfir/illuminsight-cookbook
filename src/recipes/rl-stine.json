@@ -1,16 +1,16 @@
 {
   "searches": [
     {
-      "context": "nightworld",
+      "context": "stine",
       "url": "https://www.google.com/search?q=",
       "name": "Google"
     }
   ],
   "wikis": [
     {
-      "name": "nightworld.wikia.com",
-      "api": "http://nightworld.wikia.com/api.php",
-      "url": "http://nightworld.wikia.com/wiki/"
+      "name": "stine.wikia.com",
+      "api": "http://stine.wikia.com/api.php",
+      "url": "http://stine.wikia.com/wiki/"
     },
     {
       "name": "Wikipedia",
@@ -18,5 +18,5 @@
       "url": "https://en.wikipedia.org/wiki/"
     }
   ],
-  "id": "nightworld"
+  "id": "rl-stine"
 }

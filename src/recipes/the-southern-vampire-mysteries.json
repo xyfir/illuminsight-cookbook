@@ -1,16 +1,16 @@
 {
   "searches": [
     {
-      "context": "nevernight",
+      "context": "southern vampire",
       "url": "https://www.google.com/search?q=",
       "name": "Google"
     }
   ],
   "wikis": [
     {
-      "name": "nevernight.wikia.com",
-      "api": "http://nevernight.wikia.com/api.php",
-      "url": "http://nevernight.wikia.com/wiki/"
+      "name": "sookiestackhouse.wikia.com",
+      "api": "http://sookiestackhouse.wikia.com/api.php",
+      "url": "http://sookiestackhouse.wikia.com/wiki/"
     },
     {
       "name": "Wikipedia",
@@ -18,5 +18,5 @@
       "url": "https://en.wikipedia.org/wiki/"
     }
   ],
-  "id": "nevernight"
+  "id": "the-southern-vampire-mysteries"
 }

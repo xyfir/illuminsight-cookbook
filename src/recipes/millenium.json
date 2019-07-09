@@ -1,16 +1,16 @@
 {
   "searches": [
     {
-      "context": "princeofnothing",
+      "context": "millenium",
       "url": "https://www.google.com/search?q=",
       "name": "Google"
     }
   ],
   "wikis": [
     {
-      "name": "princeofnothing.wikia.com",
-      "api": "http://princeofnothing.wikia.com/api.php",
-      "url": "http://princeofnothing.wikia.com/wiki/"
+      "name": "Wikia",
+      "api": "http://milleniumtrilogy.wikia.com/api.php",
+      "url": "http://milleniumtrilogy.wikia.com/wiki/"
     },
     {
       "name": "Wikipedia",
@@ -18,5 +18,5 @@
       "url": "https://en.wikipedia.org/wiki/"
     }
   ],
-  "id": "princeofnothing"
+  "id": "millenium"
 }

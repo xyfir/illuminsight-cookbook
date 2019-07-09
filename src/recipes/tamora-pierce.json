@@ -1,16 +1,16 @@
 {
   "searches": [
     {
-      "context": "spiderwick",
+      "context": "tamora pierce",
       "url": "https://www.google.com/search?q=",
       "name": "Google"
     }
   ],
   "wikis": [
     {
-      "name": "spiderwick.wikia.com",
-      "api": "http://spiderwick.wikia.com/api.php",
-      "url": "http://spiderwick.wikia.com/wiki/"
+      "name": "tamorapierce.wikia.com",
+      "api": "http://tamorapierce.wikia.com/api.php",
+      "url": "http://tamorapierce.wikia.com/wiki/"
     },
     {
       "name": "Wikipedia",
@@ -18,5 +18,5 @@
       "url": "https://en.wikipedia.org/wiki/"
     }
   ],
-  "id": "spiderwick"
+  "id": "tamora-pierce"
 }
