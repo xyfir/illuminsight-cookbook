@@ -1,0 +1,22 @@
+{
+  "searches": [
+    {
+      "context": "caster chronicles",
+      "url": "https://www.google.com/search?q=",
+      "name": "Google"
+    }
+  ],
+  "wikis": [
+    {
+      "name": "Wikia",
+      "api": "http://thecasterchronicles.wikia.com/api.php",
+      "url": "http://thecasterchronicles.wikia.com/wiki/"
+    },
+    {
+      "name": "Wikipedia",
+      "api": "https://en.wikipedia.org/w/api.php",
+      "url": "https://en.wikipedia.org/wiki/"
+    }
+  ],
+  "id": "the-caster-chronicles"
+}

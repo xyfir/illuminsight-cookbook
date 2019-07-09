@@ -1,0 +1,22 @@
+{
+  "searches": [
+    {
+      "context": "throne of glass",
+      "url": "https://www.google.com/search?q=",
+      "name": "Google"
+    }
+  ],
+  "wikis": [
+    {
+      "name": "Wikia",
+      "api": "http://throneofglass.wikia.com/api.php",
+      "url": "http://throneofglass.wikia.com/wiki/"
+    },
+    {
+      "name": "Wikipedia",
+      "api": "https://en.wikipedia.org/w/api.php",
+      "url": "https://en.wikipedia.org/wiki/"
+    }
+  ],
+  "id": "throne-of-glass"
+}

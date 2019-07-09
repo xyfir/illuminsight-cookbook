@@ -112,6 +112,14 @@
     "series": "The Gentleman Bastard Sequence"
   },
   {
+    "id": "grishaverse",
+    "series": "The Grishaverse"
+  },
+  {
+    "id": "guild-hunter",
+    "series": "Guild Hunter"
+  },
+  {
     "id": "harry-potter",
     "series": "Harry Potter"
   },
@@ -228,13 +236,29 @@
     "series": "The Black Company"
   },
   {
+    "id": "the-caster-chronicles",
+    "series": "The Caster Chronicles"
+  },
+  {
+    "id": "the-chronicles-of-thomas-covenant",
+    "series": "The Chronicles of Thomas Covenant"
+  },
+  {
     "id": "the-dark-tower",
     "series": "The Dark Tower"
+  },
+  {
+    "id": "the-demon-cycle",
+    "series": "The Demon Cycle"
   },
   {
     "id": "the-dresden-files",
     "series": "The Dresden Files",
     "authors": "Jim Butcher"
+  },
+  {
+    "id": "the-edge-chronicles",
+    "series": "The Edge Chronicles"
   },
   {
     "id": "the-expanse",
@@ -246,11 +270,16 @@
     "authors": "Joe Abercrombie"
   },
   {
-    "id": "the-guild-hunter-series"
+    "id": "the-giver-quartet",
+    "series": "The Giver Quartet"
   },
   {
     "id": "the-hitchhikers-guide-to-the-galaxy",
     "series": "The Hitchhiker's Guide to the Galaxy"
+  },
+  {
+    "id": "the-hunger-games",
+    "series": "The Hunger Games"
   },
   {
     "id": "the-inheritance-cycle",
@@ -261,8 +290,16 @@
     "series": "The Kingkiller Chronicle"
   },
   {
+    "id": "the-land-of-stories",
+    "series": "The Land of Stories"
+  },
+  {
     "id": "the-lunar-chronicles",
     "series": "The Lunar Chronicles"
+  },
+  {
+    "id": "the-magicians",
+    "series": "The Magicians"
   },
   {
     "id": "the-nevernight-chronicle",
@@ -285,34 +322,24 @@
     "series": "The Sword of Truth"
   },
   {
-    "id": "thecasterchronicles"
+    "id": "the-twilight-saga",
+    "series": "The Twilight Saga"
   },
   {
-    "id": "thedemoncycle"
+    "id": "the-vampire-diaries",
+    "series": "The Vampire Diaries"
   },
   {
-    "id": "theedgechronicles"
+    "id": "the-wardstone-chronicles",
+    "series": "The Wardstone Chronicles The Last Apprentice"
   },
   {
-    "id": "thegiver"
+    "id": "the-wheel-of-time",
+    "series": "The Wheel of Time"
   },
   {
-    "id": "thegrishaverse"
-  },
-  {
-    "id": "thehungergames"
-  },
-  {
-    "id": "thelandofstories"
-  },
-  {
-    "id": "themagicians"
-  },
-  {
-    "id": "thespooksapprentice"
-  },
-  {
-    "id": "throneofglass"
+    "id": "throne-of-glass",
+    "series": "Throne of Glass"
   },
   {
     "id": "tolkien",
@@ -325,27 +352,19 @@
     "authors": "Trudi Canavan"
   },
   {
-    "id": "twilightsaga"
+    "id": "unwind",
+    "series": "Unwind"
   },
   {
-    "id": "unbeliever"
+    "id": "watership-down",
+    "series": "Watership Down"
   },
   {
-    "id": "unwind"
+    "id": "xanth",
+    "series": "Xanth"
   },
   {
-    "id": "vampirediaries"
-  },
-  {
-    "id": "watershipdown"
-  },
-  {
-    "id": "wot"
-  },
-  {
-    "id": "xanth"
-  },
-  {
-    "id": "zamonia"
+    "id": "zamonia",
+    "series": "Zamonia"
   }
 ]
