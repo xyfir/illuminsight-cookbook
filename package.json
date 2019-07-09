@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/xyfir/illuminsight-cookbook/issues"
   },
-  "homepage": "https://github.com/xyfir/illuminsight-cookbook#readme"
+  "homepage": "https://github.com/xyfir/illuminsight-cookbook#readme",
+  "devDependencies": {
+    "fs-extra": "^8.1.0"
+  }
 }
