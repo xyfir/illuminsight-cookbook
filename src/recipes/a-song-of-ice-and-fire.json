@@ -8,19 +8,22 @@
   ],
   "wikis": [
     {
-      "name": "awoiaf.westeros.org",
+      "name": "AWOIAF",
       "api": "https://awoiaf.westeros.org/api.php",
-      "url": "https://awoiaf.westeros.org/wiki/"
+      "url": "https://awoiaf.westeros.org/wiki/",
+      "proxy": true
     },
     {
-      "name": "gameofthrones.wikia.com",
+      "name": "(GOT) Wikia",
       "api": "http://gameofthrones.wikia.com/api.php",
-      "url": "http://gameofthrones.wikia.com/wiki/"
+      "url": "http://gameofthrones.wikia.com/wiki/",
+      "proxy": true
     },
     {
-      "name": "iceandfire.wikia.com",
+      "name": "(Ice & Fire) Wikia",
       "api": "http://iceandfire.wikia.com/api.php",
-      "url": "http://iceandfire.wikia.com/wiki/"
+      "url": "http://iceandfire.wikia.com/wiki/",
+      "proxy": true
     },
     {
       "name": "Wikipedia",
