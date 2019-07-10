@@ -10,7 +10,8 @@
     {
       "name": "Wikia",
       "api": "http://darkhunter.wikia.com/api.php",
-      "url": "http://darkhunter.wikia.com/wiki/"
+      "url": "http://darkhunter.wikia.com/wiki/",
+      "proxy": true
     },
     {
       "name": "Wikipedia",

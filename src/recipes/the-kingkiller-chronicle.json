@@ -10,7 +10,8 @@
     {
       "name": "Wikia",
       "api": "http://kingkiller.wikia.com/api.php",
-      "url": "http://kingkiller.wikia.com/wiki/"
+      "url": "http://kingkiller.wikia.com/wiki/",
+      "proxy": true
     },
     {
       "name": "Wikipedia",

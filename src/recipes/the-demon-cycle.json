@@ -10,7 +10,8 @@
     {
       "name": "Wikia",
       "api": "http://thedemoncycle.wikia.com/api.php",
-      "url": "http://thedemoncycle.wikia.com/wiki/"
+      "url": "http://thedemoncycle.wikia.com/wiki/",
+      "proxy": true
     },
     {
       "name": "Wikipedia",

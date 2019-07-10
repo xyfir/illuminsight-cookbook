@@ -10,7 +10,8 @@
     {
       "name": "Wikia",
       "api": "http://unwind.wikia.com/api.php",
-      "url": "http://unwind.wikia.com/wiki/"
+      "url": "http://unwind.wikia.com/wiki/",
+      "proxy": true
     },
     {
       "name": "Wikipedia",

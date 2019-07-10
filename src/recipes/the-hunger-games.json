@@ -10,7 +10,8 @@
     {
       "name": "Wikia",
       "api": "http://thehungergames.wikia.com/api.php",
-      "url": "http://thehungergames.wikia.com/wiki/"
+      "url": "http://thehungergames.wikia.com/wiki/",
+      "proxy": true
     },
     {
       "name": "Wikipedia",

@@ -10,7 +10,8 @@
     {
       "name": "Wikia",
       "api": "http://twilightsaga.wikia.com/api.php",
-      "url": "http://twilightsaga.wikia.com/wiki/"
+      "url": "http://twilightsaga.wikia.com/wiki/",
+      "proxy": true
     },
     {
       "name": "Wikipedia",

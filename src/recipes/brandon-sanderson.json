@@ -10,17 +10,20 @@
     {
       "name": "Coppermind",
       "api": "https://coppermind.net/w/api.php",
-      "url": "https://coppermind.net/wiki/"
+      "url": "https://coppermind.net/wiki/",
+      "proxy": true
     },
     {
       "name": "(Stormlight Archive) Wikia",
       "api": "http://stormlightarchive.wikia.com/api.php",
-      "url": "http://stormlightarchive.wikia.com/wiki/"
+      "url": "http://stormlightarchive.wikia.com/wiki/",
+      "proxy": true
     },
     {
       "name": "(Mistborn) Wikia",
       "api": "http://mistborn.wikia.com/api.php",
-      "url": "http://mistborn.wikia.com/wiki/"
+      "url": "http://mistborn.wikia.com/wiki/",
+      "proxy": true
     },
     {
       "name": "Wikipedia",

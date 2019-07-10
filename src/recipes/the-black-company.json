@@ -10,7 +10,8 @@
     {
       "name": "Wikia",
       "api": "http://blackcompany.wikia.com/api.php",
-      "url": "http://blackcompany.wikia.com/wiki/"
+      "url": "http://blackcompany.wikia.com/wiki/",
+      "proxy": true
     },
     {
       "name": "Wikipedia",

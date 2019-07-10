@@ -10,7 +10,8 @@
     {
       "name": "Wikia",
       "api": "http://riordan.wikia.com/api.php",
-      "url": "http://riordan.wikia.com/wiki/"
+      "url": "http://riordan.wikia.com/wiki/",
+      "proxy": true
     },
     {
       "name": "Wikipedia",

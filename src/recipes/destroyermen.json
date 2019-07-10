@@ -10,7 +10,8 @@
     {
       "name": "Wikia",
       "api": "http://destroyermen.wikia.com/api.php",
-      "url": "http://destroyermen.wikia.com/wiki/"
+      "url": "http://destroyermen.wikia.com/wiki/",
+      "proxy": true
     },
     {
       "name": "Wikipedia",

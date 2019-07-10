@@ -8,9 +8,10 @@ for (let item of list) {
     readFileSync(`src/recipes/${item.id}.json`, 'utf8')
   );
 
-  // Rename Wikia wiki recipe if it's the only one
-  if (recipe.wikis.length == 2 && recipe.wikis[0].name.includes('wikia'))
-    recipe.wikis[0].name = 'Wikia';
+  // Proxy non-Wikipedia wikis
+  for (let wiki of recipe.wikis) {
+    if (wiki.name != 'Wikipedia') wiki.proxy = true;
+  }
 
   // Update recipe
   writeFileSync(`src/recipes/${item.id}.json`, JSON.stringify(recipe, null, 2));

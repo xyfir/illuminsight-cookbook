@@ -10,7 +10,8 @@
     {
       "name": "Wikia",
       "api": "http://zamonia.wikia.com/api.php",
-      "url": "http://zamonia.wikia.com/wiki/"
+      "url": "http://zamonia.wikia.com/wiki/",
+      "proxy": true
     },
     {
       "name": "Wikipedia",

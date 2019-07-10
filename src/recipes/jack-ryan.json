@@ -10,7 +10,8 @@
     {
       "name": "Wikia",
       "api": "http://jackryan.wikia.com/api.php",
-      "url": "http://jackryan.wikia.com/wiki/"
+      "url": "http://jackryan.wikia.com/wiki/",
+      "proxy": true
     },
     {
       "name": "Wikipedia",

@@ -10,7 +10,8 @@
     {
       "name": "Wikia",
       "api": "http://ericflint.wikia.com/api.php",
-      "url": "http://ericflint.wikia.com/wiki/"
+      "url": "http://ericflint.wikia.com/wiki/",
+      "proxy": true
     },
     {
       "name": "Wikipedia",

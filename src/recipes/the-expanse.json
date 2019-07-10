@@ -10,7 +10,8 @@
     {
       "name": "Wikia",
       "api": "http://expanse.wikia.com/api.php",
-      "url": "http://expanse.wikia.com/wiki/"
+      "url": "http://expanse.wikia.com/wiki/",
+      "proxy": true
     },
     {
       "name": "Wikipedia",

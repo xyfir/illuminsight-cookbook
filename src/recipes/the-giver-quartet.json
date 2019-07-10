@@ -10,7 +10,8 @@
     {
       "name": "Wikia",
       "api": "http://thegiver.wikia.com/api.php",
-      "url": "http://thegiver.wikia.com/wiki/"
+      "url": "http://thegiver.wikia.com/wiki/",
+      "proxy": true
     },
     {
       "name": "Wikipedia",

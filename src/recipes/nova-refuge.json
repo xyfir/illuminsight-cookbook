@@ -10,7 +10,8 @@
     {
       "name": "Wikia",
       "api": "http://novarefuge.wikia.com/api.php",
-      "url": "http://novarefuge.wikia.com/wiki/"
+      "url": "http://novarefuge.wikia.com/wiki/",
+      "proxy": true
     },
     {
       "name": "Wikipedia",

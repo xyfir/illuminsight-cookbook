@@ -10,7 +10,8 @@
     {
       "name": "Wikia",
       "api": "http://sharpe.wikia.com/api.php",
-      "url": "http://sharpe.wikia.com/wiki/"
+      "url": "http://sharpe.wikia.com/wiki/",
+      "proxy": true
     },
     {
       "name": "Wikipedia",

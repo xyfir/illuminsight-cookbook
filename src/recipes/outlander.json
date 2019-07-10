@@ -10,7 +10,8 @@
     {
       "name": "Wikia",
       "api": "http://outlander.wikia.com/api.php",
-      "url": "http://outlander.wikia.com/wiki/"
+      "url": "http://outlander.wikia.com/wiki/",
+      "proxy": true
     },
     {
       "name": "Wikipedia",

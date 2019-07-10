@@ -10,7 +10,8 @@
     {
       "name": "Wikia",
       "api": "http://thespooksapprentice.wikia.com/api.php",
-      "url": "http://thespooksapprentice.wikia.com/wiki/"
+      "url": "http://thespooksapprentice.wikia.com/wiki/",
+      "proxy": true
     },
     {
       "name": "Wikipedia",

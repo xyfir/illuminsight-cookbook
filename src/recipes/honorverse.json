@@ -10,7 +10,8 @@
     {
       "name": "Wikia",
       "api": "http://honorverse.wikia.com/api.php",
-      "url": "http://honorverse.wikia.com/wiki/"
+      "url": "http://honorverse.wikia.com/wiki/",
+      "proxy": true
     },
     {
       "name": "Wikipedia",

@@ -10,7 +10,8 @@
     {
       "name": "Wikia",
       "api": "http://spiderwick.wikia.com/api.php",
-      "url": "http://spiderwick.wikia.com/wiki/"
+      "url": "http://spiderwick.wikia.com/wiki/",
+      "proxy": true
     },
     {
       "name": "Wikipedia",

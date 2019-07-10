@@ -10,7 +10,8 @@
     {
       "name": "Wikia",
       "api": "http://sot.wikia.com/api.php",
-      "url": "http://sot.wikia.com/wiki/"
+      "url": "http://sot.wikia.com/wiki/",
+      "proxy": true
     },
     {
       "name": "Wikipedia",

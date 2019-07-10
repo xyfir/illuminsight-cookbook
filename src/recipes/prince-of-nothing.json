@@ -10,7 +10,8 @@
     {
       "name": "Wikia",
       "api": "http://princeofnothing.wikia.com/api.php",
-      "url": "http://princeofnothing.wikia.com/wiki/"
+      "url": "http://princeofnothing.wikia.com/wiki/",
+      "proxy": true
     },
     {
       "name": "Wikipedia",

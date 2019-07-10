@@ -10,7 +10,8 @@
     {
       "name": "Wikia",
       "api": "http://bakerstreet.wikia.com/api.php",
-      "url": "http://bakerstreet.wikia.com/wiki/"
+      "url": "http://bakerstreet.wikia.com/wiki/",
+      "proxy": true
     },
     {
       "name": "Wikipedia",

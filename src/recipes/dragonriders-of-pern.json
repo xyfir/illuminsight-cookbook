@@ -10,7 +10,8 @@
     {
       "name": "Wikia",
       "api": "http://pern.wikia.com/api.php",
-      "url": "http://pern.wikia.com/wiki/"
+      "url": "http://pern.wikia.com/wiki/",
+      "proxy": true
     },
     {
       "name": "Wikipedia",

@@ -26,6 +26,7 @@ interface Recipe {
   }[];
   // In descending order of priority
   wikis: {
+    proxy?: boolean;
     name: string;
     url: string;
     api: string;

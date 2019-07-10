@@ -10,12 +10,14 @@
     {
       "name": "wiki.lspace.org",
       "api": "http://wiki.lspace.org/mediawiki/api.php",
-      "url": "http://wiki.lspace.org/wiki/"
+      "url": "http://wiki.lspace.org/wiki/",
+      "proxy": true
     },
     {
       "name": "discworld.wikia.com",
       "api": "http://discworld.wikia.com/api.php",
-      "url": "http://discworld.wikia.com/wiki/"
+      "url": "http://discworld.wikia.com/wiki/",
+      "proxy": true
     },
     {
       "name": "Wikipedia",

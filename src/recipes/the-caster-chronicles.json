@@ -10,7 +10,8 @@
     {
       "name": "Wikia",
       "api": "http://thecasterchronicles.wikia.com/api.php",
-      "url": "http://thecasterchronicles.wikia.com/wiki/"
+      "url": "http://thecasterchronicles.wikia.com/wiki/",
+      "proxy": true
     },
     {
       "name": "Wikipedia",

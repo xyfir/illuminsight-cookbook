@@ -10,7 +10,8 @@
     {
       "name": "Wikia",
       "api": "http://harrypotter.wikia.com/api.php",
-      "url": "http://harrypotter.wikia.com/wiki/"
+      "url": "http://harrypotter.wikia.com/wiki/",
+      "proxy": true
     },
     {
       "name": "Wikipedia",

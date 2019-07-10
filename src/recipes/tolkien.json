@@ -10,12 +10,14 @@
     {
       "name": "Tolkien Gateway",
       "api": "http://tolkiengateway.net/w/api.php",
-      "url": "http://tolkiengateway.net/wiki/"
+      "url": "http://tolkiengateway.net/wiki/",
+      "proxy": true
     },
     {
       "name": "LOTR Wikia",
       "api": "http://lotr.wikia.com/api.php",
-      "url": "http://lotr.wikia.com/wiki/"
+      "url": "http://lotr.wikia.com/wiki/",
+      "proxy": true
     },
     {
       "name": "Wikipedia",

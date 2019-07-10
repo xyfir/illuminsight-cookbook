@@ -10,7 +10,8 @@
     {
       "name": "Wikia",
       "api": "http://vampirediaries.wikia.com/api.php",
-      "url": "http://vampirediaries.wikia.com/wiki/"
+      "url": "http://vampirediaries.wikia.com/wiki/",
+      "proxy": true
     },
     {
       "name": "Wikipedia",

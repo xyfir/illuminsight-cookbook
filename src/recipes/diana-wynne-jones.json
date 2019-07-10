@@ -10,7 +10,8 @@
     {
       "name": "Wikia",
       "api": "http://dianawynnejones.wikia.com/api.php",
-      "url": "http://dianawynnejones.wikia.com/wiki/"
+      "url": "http://dianawynnejones.wikia.com/wiki/",
+      "proxy": true
     },
     {
       "name": "Wikipedia",

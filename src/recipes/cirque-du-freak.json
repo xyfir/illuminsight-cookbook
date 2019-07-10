@@ -10,7 +10,8 @@
     {
       "name": "Wikia",
       "api": "http://cirquedufreak.wikia.com/api.php",
-      "url": "http://cirquedufreak.wikia.com/wiki/"
+      "url": "http://cirquedufreak.wikia.com/wiki/",
+      "proxy": true
     },
     {
       "name": "Wikipedia",

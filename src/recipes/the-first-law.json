@@ -10,7 +10,8 @@
     {
       "name": "Wikia",
       "api": "http://firstlaw.wikia.com/api.php",
-      "url": "http://firstlaw.wikia.com/wiki/"
+      "url": "http://firstlaw.wikia.com/wiki/",
+      "proxy": true
     },
     {
       "name": "Wikipedia",

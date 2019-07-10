@@ -10,7 +10,8 @@
     {
       "name": "Wikia",
       "api": "http://thelandofstories.wikia.com/api.php",
-      "url": "http://thelandofstories.wikia.com/wiki/"
+      "url": "http://thelandofstories.wikia.com/wiki/",
+      "proxy": true
     },
     {
       "name": "Wikipedia",

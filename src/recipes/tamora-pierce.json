@@ -10,7 +10,8 @@
     {
       "name": "Wikia",
       "api": "http://tamorapierce.wikia.com/api.php",
-      "url": "http://tamorapierce.wikia.com/wiki/"
+      "url": "http://tamorapierce.wikia.com/wiki/",
+      "proxy": true
     },
     {
       "name": "Wikipedia",

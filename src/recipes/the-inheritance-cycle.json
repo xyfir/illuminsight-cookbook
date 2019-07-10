@@ -10,7 +10,8 @@
     {
       "name": "Wikia",
       "api": "http://inheritance.wikia.com/api.php",
-      "url": "http://inheritance.wikia.com/wiki/"
+      "url": "http://inheritance.wikia.com/wiki/",
+      "proxy": true
     },
     {
       "name": "Wikipedia",

@@ -10,7 +10,8 @@
     {
       "name": "Wikia",
       "api": "http://red-rising.wikia.com/api.php",
-      "url": "http://red-rising.wikia.com/wiki/"
+      "url": "http://red-rising.wikia.com/wiki/",
+      "proxy": true
     },
     {
       "name": "Wikipedia",

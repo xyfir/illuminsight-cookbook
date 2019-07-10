@@ -10,7 +10,8 @@
     {
       "name": "Wikia",
       "api": "http://dune.wikia.com/api.php",
-      "url": "http://dune.wikia.com/wiki/"
+      "url": "http://dune.wikia.com/wiki/",
+      "proxy": true
     },
     {
       "name": "Wikipedia",

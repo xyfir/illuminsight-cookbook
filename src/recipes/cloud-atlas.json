@@ -10,7 +10,8 @@
     {
       "name": "Wikia",
       "api": "http://cloudatlas.wikia.com/api.php",
-      "url": "http://cloudatlas.wikia.com/wiki/"
+      "url": "http://cloudatlas.wikia.com/wiki/",
+      "proxy": true
     },
     {
       "name": "Wikipedia",

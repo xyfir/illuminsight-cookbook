@@ -10,7 +10,8 @@
     {
       "name": "Wikia",
       "api": "http://themagicians.wikia.com/api.php",
-      "url": "http://themagicians.wikia.com/wiki/"
+      "url": "http://themagicians.wikia.com/wiki/",
+      "proxy": true
     },
     {
       "name": "Wikipedia",

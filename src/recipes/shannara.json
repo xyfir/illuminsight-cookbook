@@ -10,7 +10,8 @@
     {
       "name": "Wikia",
       "api": "http://shannara.wikia.com/api.php",
-      "url": "http://shannara.wikia.com/wiki/"
+      "url": "http://shannara.wikia.com/wiki/",
+      "proxy": true
     },
     {
       "name": "Wikipedia",

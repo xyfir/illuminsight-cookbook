@@ -10,7 +10,8 @@
     {
       "name": "Wikia",
       "api": "http://theedgechronicles.wikia.com/api.php",
-      "url": "http://theedgechronicles.wikia.com/wiki/"
+      "url": "http://theedgechronicles.wikia.com/wiki/",
+      "proxy": true
     },
     {
       "name": "Wikipedia",

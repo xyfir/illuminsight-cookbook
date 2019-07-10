@@ -10,7 +10,8 @@
     {
       "name": "Wikia",
       "api": "http://divergent.wikia.com/api.php",
-      "url": "http://divergent.wikia.com/wiki/"
+      "url": "http://divergent.wikia.com/wiki/",
+      "proxy": true
     },
     {
       "name": "Wikipedia",

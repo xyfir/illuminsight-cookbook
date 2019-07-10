@@ -10,7 +10,8 @@
     {
       "name": "Wikia",
       "api": "http://unbeliever.wikia.com/api.php",
-      "url": "http://unbeliever.wikia.com/wiki/"
+      "url": "http://unbeliever.wikia.com/wiki/",
+      "proxy": true
     },
     {
       "name": "Wikipedia",

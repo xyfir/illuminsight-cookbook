@@ -10,7 +10,8 @@
     {
       "name": "Wikia",
       "api": "http://shadowhunters.wikia.com/api.php",
-      "url": "http://shadowhunters.wikia.com/wiki/"
+      "url": "http://shadowhunters.wikia.com/wiki/",
+      "proxy": true
     },
     {
       "name": "Wikipedia",

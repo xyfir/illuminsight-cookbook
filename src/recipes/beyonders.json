@@ -10,7 +10,8 @@
     {
       "name": "Wikia",
       "api": "http://beyonders.wikia.com/api.php",
-      "url": "http://beyonders.wikia.com/wiki/"
+      "url": "http://beyonders.wikia.com/wiki/",
+      "proxy": true
     },
     {
       "name": "Wikipedia",

@@ -10,7 +10,8 @@
     {
       "name": "Wikia",
       "api": "http://gailcarriger.wikia.com/api.php",
-      "url": "http://gailcarriger.wikia.com/wiki/"
+      "url": "http://gailcarriger.wikia.com/wiki/",
+      "proxy": true
     },
     {
       "name": "Wikipedia",

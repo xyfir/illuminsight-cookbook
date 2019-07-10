@@ -10,7 +10,8 @@
     {
       "name": "Wikia",
       "api": "http://flanagan.wikia.com/api.php",
-      "url": "http://flanagan.wikia.com/wiki/"
+      "url": "http://flanagan.wikia.com/wiki/",
+      "proxy": true
     },
     {
       "name": "Wikipedia",

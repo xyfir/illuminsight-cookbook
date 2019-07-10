@@ -10,7 +10,8 @@
     {
       "name": "Wikia",
       "api": "http://lunarchronicles.wikia.com/api.php",
-      "url": "http://lunarchronicles.wikia.com/wiki/"
+      "url": "http://lunarchronicles.wikia.com/wiki/",
+      "proxy": true
     },
     {
       "name": "Wikipedia",

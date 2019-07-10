@@ -10,7 +10,8 @@
     {
       "name": "Wikia",
       "api": "http://hdm.wikia.com/api.php",
-      "url": "http://hdm.wikia.com/wiki/"
+      "url": "http://hdm.wikia.com/wiki/",
+      "proxy": true
     },
     {
       "name": "Wikipedia",

@@ -10,7 +10,8 @@
     {
       "name": "Wikia",
       "api": "http://hitchhikers.wikia.com/api.php",
-      "url": "http://hitchhikers.wikia.com/wiki/"
+      "url": "http://hitchhikers.wikia.com/wiki/",
+      "proxy": true
     },
     {
       "name": "Wikipedia",
