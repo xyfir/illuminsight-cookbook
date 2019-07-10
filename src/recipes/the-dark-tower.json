@@ -8,9 +8,15 @@
   ],
   "wikis": [
     {
-      "name": "Wikia",
+      "name": "(Dark Tower) Wikia",
       "api": "http://darktower.wikia.com/api.php",
       "url": "http://darktower.wikia.com/wiki/",
+      "proxy": true
+    },
+    {
+      "name": "(Stephen King) Wikia",
+      "api": "http://stephenking.wikia.com/api.php",
+      "url": "http://stephenking.wikia.com/wiki/",
       "proxy": true
     },
     {
